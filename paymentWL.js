@@ -3,10 +3,12 @@ let ccPage = document.getElementById('page_2');
 // let addPaymentScript = document.createElement('script');
 // addPaymentScript.setAttribute('src', 'https://test.oppwa.com/v1/paymentWidgets.js?checkoutId={checkoutId}');
 // ccPage.prepend(addPaymentScript);
+
 // building wordline html
-let paymentDiv = document.getElementById('paymentWL');
-wlHtml = '<div class="card__holder wpwl-container"><form action="https://onlinerecipesbook.com/?page=signup" class="paymentWidgets" data-brands="VISA MASTER AMEX"></form></div>'
-paymentDiv.innerHTML = wlHtml;
+// let paymentDiv = document.getElementById('paymentWL');
+// wlHtml = '<div class="card__holder wpwl-container"><form action="https://onlinerecipesbook.com/?page=signup" class="paymentWidgets" data-brands="VISA MASTER AMEX"></form></div>'
+// paymentDiv.innerHTML = wlHtml;
+
 // building wordline style
 let addStyle = document.createElement('style');
 ccPage.prepend(addStyle);
