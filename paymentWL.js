@@ -5,9 +5,9 @@ let ccPage = document.getElementById('page_2');
 // ccPage.prepend(addPaymentScript);
 
 // building wordline html
-// let paymentDiv = document.getElementById('paymentWL');
-// wlHtml = '<div class="card__holder wpwl-container"><form action="https://onlinerecipesbook.com/?page=signup" class="paymentWidgets" data-brands="VISA MASTER AMEX"></form></div>'
-// paymentDiv.innerHTML = wlHtml;
+let paymentDiv = document.getElementById('paymentWL');
+wlHtml = '<div class="card__holder wpwl-container"><form action="https://onlinerecipesbook.com/?page=signup" class="paymentWidgets" data-brands="VISA MASTER AMEX"></form></div>'
+paymentDiv.innerHTML = wlHtml;
 
 // building wordline style
 let addStyle = document.createElement('style');
