@@ -1,13 +1,22 @@
 let ccPage = document.getElementById('page_2');
 // building wordline script
+
 // let addPaymentScript = document.createElement('script');
 // addPaymentScript.setAttribute('src', 'https://test.oppwa.com/v1/paymentWidgets.js?checkoutId={checkoutId}');
 // ccPage.prepend(addPaymentScript);
 
 // building wordline html
-let paymentDiv = document.getElementById('paymentWL');
-wlHtml = '<div class="card__holder wpwl-container"><form action="https://onlinerecipesbook.com/?page=signup" class="paymentWidgets" data-brands="VISA MASTER AMEX"></form></div>'
-paymentDiv.innerHTML = wlHtml;
+var paymentDiv = document.getElementById('payment_wl') || document.getElementById('payment_po');
+if (document.getElementById('payment_wl')) {
+    var paymentHTML = '<div class="card__holder wpwl-container"><form action="https://onlinerecipesbook.com/?page=signup" class="paymentWidgets" data-brands="VISA MASTER AMEX"></form></div>';
+    console.log('wordline');
+} else if (document.getElementById('payment_po')){
+    var paymentHTML = '<div class="card__holder wpwl-container"><form <form action="https://lootpower.com/?page=signup_ecardon" class="paymentWidgets" data-brands="VISA MASTER AMEX"></form></div>';
+    console.log('payone');
+} else {
+    console.log('wrond payment div name');
+}
+paymentDiv.innerHTML = paymentHTML;
 
 // building wordline style
 let addStyle = document.createElement('style');
@@ -68,7 +77,10 @@ var wpwlOptions = {
     showCVVHint: true,
     brandDetection: true,
     onReady: function(){
-        $('.wpwl-button-pay').html(localButtons[cc]);
+        if (localButtons[cc]){
+            $('.wpwl-button-pay').html(localButtons[cc]);
+        } else { $('.wpwl-button-pay').html("Continue");}
+
         $(".wpwl-group-cardNumber").after($(".wpwl-group-brand").detach());
         $(".wpwl-group-cvv").after( $(".wpwl-group-cardHolder").detach());
         var visa = $(".wpwl-brand:first").clone().removeAttr("class").attr("class", "wpwl-brand-card wpwl-brand-custom wpwl-brand-VISA")
