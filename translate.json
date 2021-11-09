@@ -16,7 +16,8 @@
     "please_enter_a_valid_email":"Please enter a valid email address",
     "checkbox_policy":" I certify that I am at least 18 years of age, and accept the terms and privacy policy.",
     "continue":"Continue",
-    "text_2":"A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life. Let’s Pro.",
+    "text_2":"A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.",
+    "text_2_pro": "Let's Pro",
     "text_3":"No wonder your photos look so good.",
     "claim_yours":"Claim yours"},
   "IE": {
@@ -37,6 +38,7 @@
     "checkbox_policy":" I certify that I am at least 18 years of age, and accept the terms and privacy policy.",
     "continue":"Continue",
     "text_2":"A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+    "text_2_pro": "Let's Pro",
     "text_3":"No wonder your photos look so good.",
     "claim_yours":"Claim yours"},
   "US": {
@@ -57,6 +59,7 @@
     "checkbox_policy":" I certify that I am at least 18 years of age, and accept the terms and privacy policy.",
     "continue":"Continue",
     "text_2":"A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+    "text_2_pro": "Let's Pro",
     "text_3":"No wonder your photos look so good.",
     "claim_yours":"Claim yours"},
   "UK": {
@@ -77,6 +80,7 @@
     "checkbox_policy":" I certify that I am at least 18 years of age, and accept the terms and privacy policy.",
     "continue":"Continue",
     "text_2":"A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+    "text_2_pro": "Let's Pro",
     "text_3":"No wonder your photos look so good.",
     "claim_yours":"Claim yours"},
   "CA": {
@@ -97,6 +101,7 @@
     "checkbox_policy":" I certify that I am at least 18 years of age, and accept the terms and privacy policy.",
     "continue":"Continue",
     "text_2":"A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+    "text_2_pro": "Let's Pro",
     "text_3":"No wonder your photos look so good.",
     "claim_yours":"Claim yours"},
   "AT": {
@@ -117,6 +122,7 @@
     "checkbox_policy":"Ich bestätige, dass ich mindestens 18 Jahre alt bin und akzeptiere die Bedingungen und Datenschutzbestimmungen.",
     "continue":"Fortsetzen",
     "text_2":"Ein deutlich leistungs­stärkeres Kamera-System. Ein Display, das so reaktions­schnell ist, dass sich alles ganz neu anfühlt. Der schnellste Smartphone Chip der Welt. Außer­gewöhnlich robust. Und ein riesiger Sprung bei der Batterielaufzeit. Das ist Pro.",
+    "text_2_pro": "Das ist Pro.",
     "text_3":"Kein Wunder, dass deine Fotos so gut aussehen.",
     "claim_yours":"Nimm deines"},
   "DE": {
@@ -136,7 +142,8 @@
     "please_enter_a_valid_email":"Bitte geben Sie eine gültige E-Mail-Adresse ein",
     "checkbox_policy":"Ich bestätige, dass ich mindestens 18 Jahre alt bin und akzeptiere die Bedingungen und Datenschutzbestimmungen.",
     "continue":"Fortsetzen",
-    "text_2":"Ein deutlich leistungs­stärkeres Kamera-System. Ein Display, das so reaktions­schnell ist, dass sich alles ganz neu anfühlt. Der schnellste Smartphone Chip der Welt. Außer­gewöhnlich robust. Und ein riesiger Sprung bei der Batterielaufzeit. Das ist Pro.",
+    "text_2":"Ein deutlich leistungs­stärkeres Kamera-System. Ein Display, das so reaktions­schnell ist, dass sich alles ganz neu anfühlt. Der schnellste Smartphone Chip der Welt. Außer­gewöhnlich robust. Und ein riesiger Sprung bei der Batterielaufzeit.",
+    "text_2_pro": "Das ist Pro.",
     "text_3":"Kein Wunder, dass deine Fotos so gut aussehen.",
     "claim_yours":"Nimm deines"},
   "CH": {
@@ -157,6 +164,7 @@
     "checkbox_policy":"Ich bestätige, dass ich mindestens 18 Jahre alt bin und akzeptiere die Bedingungen und Datenschutzbestimmungen.",
     "continue":"Fortsetzen",
     "text_2":"Ein deutlich leistungs­stärkeres Kamera-System. Ein Display, das so reaktions­schnell ist, dass sich alles ganz neu anfühlt. Der schnellste Smartphone Chip der Welt. Außer­gewöhnlich robust. Und ein riesiger Sprung bei der Batterielaufzeit. Das ist Pro.",
+    "text_2_pro": "Das ist Pro.",
     "text_3":"Kein Wunder, dass deine Fotos so gut aussehen.",
     "claim_yours":"Nimm deines"},
   "FR": {
@@ -196,7 +204,8 @@
     "please_enter_a_valid_email":"Veuillez entrer une adresse email valide",
     "checkbox_policy":"Je certifie que j'ai au moins 18 ans et j'accepte les conditions et la politique de confidentialité.",
     "continue":"Continue",
-    "text_2":"Un système photo nettement plus puissant. Un écran si réactif qu’il renouvelle vos sensations à chaque interaction. La puce de smartphone la plus rapide au monde. Une résistance exceptionnelle. Et un gain d’autonomie spectaculaire. À vos marques. Pro. Partez.",
+    "text_2":"Un système photo nettement plus puissant. Un écran si réactif qu’il renouvelle vos sensations à chaque interaction. La puce de smartphone la plus rapide au monde. Une résistance exceptionnelle. Et un gain d’autonomie spectaculaire.",
+    "text_2_pro": "À vos marques. Pro. Partez.",
     "text_3":"Voilà pourquoi le selfie vous va si bien.",
     "claim_yours":"Réclamez le vôtre"},
   "BG": {
@@ -216,7 +225,8 @@
     "please_enter_a_valid_email":"Моля, въведете валиден имейл адрес",
     "checkbox_policy":" Удостоверявам, че съм на поне 18 години и приемам условията и политиката за поверителност.",
     "continue":"Продължи",
-    "text_2":"Значително по-мощна система камери. Толкова отзивчив дисплей, че всяка интеракция създава съвсем ново усещане. Най-бързият чип в смартфон досега. Изключителна издръжливост. И огромен скок в живота на батерията. Ето това е Про.",
+    "text_2":"Значително по-мощна система камери. Толкова отзивчив дисплей, че всяка интеракция създава съвсем ново усещане. Най-бързият чип в смартфон досега. Изключителна издръжливост. И огромен скок в живота на батерията.",
+    "text_2_pro": "Ето това е Про.",
     "text_3":"Не случайно снимките изглеждат толкова добре.",
     "claim_yours":"Вземете своето"},
   "BR": {
@@ -236,7 +246,8 @@
     "please_enter_a_valid_email":"Por favor, digite um endereço de e-mail válido",
     "checkbox_policy":"Certifico que tenho pelo menos 18 anos de idade e aceito os termos e a política de privacidade.",
     "continue":"Continuar",
-    "text_2":"Novo sistema de câmera dramaticamente mais poderoso. Tela responsiva que surpreende a cada toque. O chip de smartphone mais rápido do mundo. Design com resistência fora de série. E um salto imenso na duração da bateria.É Pro e pronto.",
+    "text_2":"Novo sistema de câmera dramaticamente mais poderoso. Tela responsiva que surpreende a cada toque. O chip de smartphone mais rápido do mundo. Design com resistência fora de série. E um salto imenso na duração da bateria.",
+    "text_2_pro": "É Pro e pronto.",
     "text_3":"Não é à toa que suas selfies ficam lindas.",
     "claim_yours":"Obtenha o seu"},
   "CY": {
@@ -256,7 +267,8 @@
     "please_enter_a_valid_email":"Παρακαλώ εισάγετε μια έγκυρη διεύθυνση email",
     "checkbox_policy":"Βεβαιώνω ότι είμαι τουλάχιστον 18 ετών και αποδέχομαι τους όρους και την πολιτική απορρήτου.",
     "continue":"Προχωρώ",
-    "text_2":"Ριζικά πιο ισχυρό σύστημα κάμερας. Απόκριση οθόνης που κάνει κάθε αλληλεπίδρασή σου πρωτοφανή. Το ταχύτερο chip του κόσμου σε smartphone. Εξαιρετική ανθεκτικότητα. Και ένα τεράστιο άλμα στη διάρκεια λειτουργίας της μπαταρίας.Μπες στον κόσμο του Pro.",
+    "text_2":"Ριζικά πιο ισχυρό σύστημα κάμερας. Απόκριση οθόνης που κάνει κάθε αλληλεπίδρασή σου πρωτοφανή. Το ταχύτερο chip του κόσμου σε smartphone. Εξαιρετική ανθεκτικότητα. Και ένα τεράστιο άλμα στη διάρκεια λειτουργίας της μπαταρίας.",
+    "text_2_pro":"Μπες στον κόσμο του Pro.",
     "text_3":"Δεν είναι τυχαίο που οι φωτογραφίες σου είναι εκπληκτικές.",
     "claim_yours":"Πάρε το δικό σου"},
   "GR": {
@@ -276,7 +288,8 @@
     "please_enter_a_valid_email":"Παρακαλώ εισάγετε μια έγκυρη διεύθυνση email",
     "checkbox_policy":"Βεβαιώνω ότι είμαι τουλάχιστον 18 ετών και αποδέχομαι τους όρους και την πολιτική απορρήτου.",
     "continue":"Προχωρώ",
-    "text_2":"Ριζικά πιο ισχυρό σύστημα κάμερας. Απόκριση οθόνης που κάνει κάθε αλληλεπίδρασή σου πρωτοφανή. Το ταχύτερο chip του κόσμου σε smartphone. Εξαιρετική ανθεκτικότητα. Και ένα τεράστιο άλμα στη διάρκεια λειτουργίας της μπαταρίας.Μπες στον κόσμο του Pro.",
+    "text_2":"Ριζικά πιο ισχυρό σύστημα κάμερας. Απόκριση οθόνης που κάνει κάθε αλληλεπίδρασή σου πρωτοφανή. Το ταχύτερο chip του κόσμου σε smartphone. Εξαιρετική ανθεκτικότητα. Και ένα τεράστιο άλμα στη διάρκεια λειτουργίας της μπαταρίας.",
+    "text_2_pro":"Μπες στον κόσμο του Pro.",
     "text_3":"Δεν είναι τυχαίο που οι φωτογραφίες σου είναι εκπληκτικές.",
     "claim_yours":"Πάρε το δικό σου"},
   "CZ": {
@@ -296,7 +309,8 @@
     "please_enter_a_valid_email":"Prosím zadejte platnou emailovou adresu",
     "checkbox_policy":" Potvrzuji, že je mi alespoň 18 let a souhlasím s podmínkami a zásadami ochrany osobních údajů.",
     "continue":"Pokračovat",
-    "text_2":"Dramaticky zdokonalená soustava fotoaparátů. Displej, který reaguje tak bezprostředně, že tě pokaždé překvapí. Nejrychlejší smartphonový čip na světě. Výjimečná odolnost. A obrovský skok ve výdrži baterie.Jsi Pro?",
+    "text_2":"Dramaticky zdokonalená soustava fotoaparátů. Displej, který reaguje tak bezprostředně, že tě pokaždé překvapí. Nejrychlejší smartphonový čip na světě. Výjimečná odolnost. A obrovský skok ve výdrži baterie.",
+    "text_2_pro":"Jsi Pro?",
     "text_3":"není divu, že ti to na fotkách tak sluší.",
     "claim_yours":"Získejte své"},
   "DK": {
@@ -316,7 +330,8 @@
     "please_enter_a_valid_email":"Indtast venligst en gyldig e-mailadresse",
     "checkbox_policy":" Jeg bekræfter, at jeg er mindst 18 år gammel, og accepterer vilkårene og privatlivspolitikken.",
     "continue":"Blive ved",
-    "text_2":"Et markant stærkere kamerasystem. En skærm, der reagerer så hurtigt, at alt føles nyt igen. Verdens hurtigste chip i en smartphone. Exceptionel holdbarhed. Og et kæmpe spring i batteritid.Klar til Pro?",
+    "text_2":"Et markant stærkere kamerasystem. En skærm, der reagerer så hurtigt, at alt føles nyt igen. Verdens hurtigste chip i en smartphone. Exceptionel holdbarhed. Og et kæmpe spring i batteritid.",
+    "text_2_pro":"Klar til Pro?",
     "text_3":"Ikke så underligt, at dine billeder er så gode.",
     "claim_yours":"Få din"},
   "ES": {
@@ -336,7 +351,8 @@
     "please_enter_a_valid_email":"Por favor, introduce una dirección de correo electrónico válida",
     "checkbox_policy":" Certifico que tengo al menos 18 años de edad y acepto los términos y la política de privacidad.",
     "continue":"Continuar",
-    "text_2":"Un sistema de cámaras revolucionario. Una pantalla con una respuesta tan fluida que cada toque parece magia. El chip más rápido que jamás ha tenido un móvil. Una resistencia extraordinaria. Y la mayor autonomía en un iPhone.Es todo un Pro.",
+    "text_2":"Un sistema de cámaras revolucionario. Una pantalla con una respuesta tan fluida que cada toque parece magia. El chip más rápido que jamás ha tenido un móvil. Una resistencia extraordinaria. Y la mayor autonomía en un iPhone.",
+    "text_2_pro":"Es todo un Pro.",
     "text_3":"Normal que tus fotos se salgan de lo normal.",
     "claim_yours":"Consigue el tuyo"},
   "FI": {
@@ -356,7 +372,8 @@
     "please_enter_a_valid_email":"Ole hyvä ja syötä toimiva sähköpostiosoite",
     "checkbox_policy":" Vakuutan, että olen vähintään 18-vuotias, ja hyväksyn ehdot ja tietosuojakäytännön.",
     "continue":"Jatkaa",
-    "text_2":"Tuntuvasti tehokkaampi kamerajärjestelmä. Niin herkkä näyttö, että kaikki tuntuu täysin uudelta. Maailman nopein äly­puhelimen siru. Poikkeuksellisen kestävä rakenne. Ja huima parannus akunkestossa.Pro mikä pro.",
+    "text_2":"Tuntuvasti tehokkaampi kamerajärjestelmä. Niin herkkä näyttö, että kaikki tuntuu täysin uudelta. Maailman nopein äly­puhelimen siru. Poikkeuksellisen kestävä rakenne. Ja huima parannus akunkestossa.",
+    "text_2_pro":"Pro mikä pro.",
     "text_3":"Ei ihme että näytät niin hyvältä kuvissasi.",
     "claim_yours":"Hanki omasi"},
   "HU": {
@@ -376,7 +393,8 @@
     "please_enter_a_valid_email":"Kérjük valós e-mail címet adjon meg",
     "checkbox_policy":" Kijelentem, hogy legalább 18 éves vagyok, és elfogadom a feltételeket és az adatvédelmi szabályzatot.",
     "continue":"Folytatni",
-    "text_2":"Frenetikus, mennyivel többre képes a kamera­rendszer. Szupergyorsan reagáló, teljesen új kezelői élményt adó kijelző. A világ leggyorsabb okos­telefonchipje. Döbbenetesen strapabíró kialakítás. És sokkal hosszabb aksiidő.Minden Pro lesz.",
+    "text_2":"Frenetikus, mennyivel többre képes a kamera­rendszer. Szupergyorsan reagáló, teljesen új kezelői élményt adó kijelző. A világ leggyorsabb okos­telefonchipje. Döbbenetesen strapabíró kialakítás. És sokkal hosszabb aksiidő.",
+    "text_2_pro":"Minden Pro lesz.",
     "text_3":"Nem csoda, hogy ilyen csodásak a fotóid.",
     "claim_yours":"Igényelje a magáét"},
   "ID": {
@@ -396,7 +414,8 @@
     "please_enter_a_valid_email":"silakan isi alamat email",
     "checkbox_policy":" Saya menyatakan bahwa saya berusia minimal 18 tahun, dan menerima persyaratan dan kebijakan privasi.",
     "continue":"Melanjutkan",
-    "text_2":"Sistem kamera yang jauh lebih andal. Layar yang begitu responsif, setiap interaksi terasa baru lagi. Chip ponsel pintar paling cepat di dunia. Istimewa kokohnya. Dan lompatan besar dalam kekuatan baterai.Ayo jadi Pro.",
+    "text_2":"Sistem kamera yang jauh lebih andal. Layar yang begitu responsif, setiap interaksi terasa baru lagi. Chip ponsel pintar paling cepat di dunia. Istimewa kokohnya. Dan lompatan besar dalam kekuatan baterai.",
+    "text_2_pro":"Ayo jadi Pro.",
     "text_3":"Tak heran foto Anda begitu menawan.",
     "claim_yours":"Dapatkan milikmu"},
   "IT": {
@@ -416,7 +435,8 @@
     "please_enter_a_valid_email":"Si prega di inserire un indirizzo email valido",
     "checkbox_policy":" Dichiaro di avere almeno 18 anni e di accettare i termini e l'informativa sulla privacy.",
     "continue":"Continua",
-    "text_2":"Un nuovo, sorprendente salto di qualità per le fotocamere. Un display così reattivo che anche i gesti di sempre ti stupiranno. Il chip per smartphone più veloce al mondo. Robustezza eccezionale. E autonomia senza precedenti.Entra nel mondo Pro.",
+    "text_2":"Un nuovo, sorprendente salto di qualità per le fotocamere. Un display così reattivo che anche i gesti di sempre ti stupiranno. Il chip per smartphone più veloce al mondo. Robustezza eccezionale. E autonomia senza precedenti.",
+    "text_2_pro":"Entra nel mondo Pro.",
     "text_3":"Non è un caso che le tue foto siano così belle.",
     "claim_yours":"Prendi il tuo"},
   "LT": {
@@ -436,7 +456,8 @@
     "please_enter_a_valid_email":"Prašome įvesti galiojantį elektroninio pašto adresą",
     "checkbox_policy":" Patvirtinu, kad esu ne jaunesnis kaip 18 metų ir sutinku su sąlygomis bei privatumo politika.",
     "continue":"Tęsti",
-    "text_2":"Dramatiškai galingesnė kameros sistema. Ekranas reaguoja taip greitai, kad kiekvienas prisilietimas stebina. Sparčiausias pasaulyje išmaniojo lustas. Išskirtinis patvarumas. Daug ilgesnis baterijos veikimo laikas.Tai protingasis „Pro“.",
+    "text_2":"Dramatiškai galingesnė kameros sistema. Ekranas reaguoja taip greitai, kad kiekvienas prisilietimas stebina. Sparčiausias pasaulyje išmaniojo lustas. Išskirtinis patvarumas. Daug ilgesnis baterijos veikimo laikas.",
+    "text_2_pro":"Tai protingasis „Pro“.",
     "text_3":"Nenuostabu, kad jūsų nuotraukos atrodo taip nuostabiai.",
     "claim_yours":"Gaukite savo"},
   "LU": {
@@ -456,7 +477,8 @@
     "please_enter_a_valid_email":"Veuillez entrer une adresse email valide",
     "checkbox_policy":"Je certifie que j'ai au moins 18 ans et j'accepte les conditions et la politique de confidentialité.",
     "continue":"Continue",
-    "text_2":"Un système photo nettement plus puissant. Un écran si réactif qu’il renouvelle vos sensations à chaque interaction. La puce de smartphone la plus rapide au monde. Une résistance exceptionnelle. Et un gain d’autonomie spectaculaire. À vos marques. Pro. Partez.",
+    "text_2":"Un système photo nettement plus puissant. Un écran si réactif qu’il renouvelle vos sensations à chaque interaction. La puce de smartphone la plus rapide au monde. Une résistance exceptionnelle. Et un gain d’autonomie spectaculaire.",
+    "text_2_pro":"À vos marques. Pro. Partez.",
     "text_3":"Voilà pourquoi le selfie vous va si bien.",
     "claim_yours":"Réclamez le vôtre"},
   "LV": {
@@ -476,7 +498,8 @@
     "please_enter_a_valid_email":"Lūdzu ievadiet derīgu e-pasta adresi",
     "checkbox_policy":" Es apliecinu, ka esmu vismaz 18 gadus vecs, un piekrītu noteikumiem un privātuma politikai.",
     "continue":"Continue",
-    "text_2":"Dramatiski jaudīgāka kameru sistēma. Tik jutīgs displejs, ka katrs pieskāriens sagādās prieku. Pasaulē ātrākais viedtālruņu procesors. Vienkārši izcila izturība. Un daudz ilgāks akumulatora darbības laiks.Tas. Ir. Pro.",
+    "text_2":"Dramatiski jaudīgāka kameru sistēma. Tik jutīgs displejs, ka katrs pieskāriens sagādās prieku. Pasaulē ātrākais viedtālruņu procesors. Vienkārši izcila izturība. Un daudz ilgāks akumulatora darbības laiks.",
+    "text_2_pro":"Tas. Ir. Pro.",
     "text_3":"Nav brīnums, ka jūsu fotoattēli izskatās tik labi.",
     "claim_yours":"Iegūstiet savu"},
   "ME": {
@@ -496,7 +519,8 @@
     "please_enter_a_valid_email":"Унесите исправну е-маил адресу",
     "checkbox_policy":" Потврђујем да имам најмање 18 година и прихватам услове и политику приватности.",
     "continue":"Настави",
-    "text_2":"Драматично моћнији систем камера. Екран тако реагује да свака интеракција поново изгледа као нова. Најбржи чип за паметни телефон на свету. Изузетна издржљивост. И огроман скок у трајању батерије.<бр>Лет’с Про.",
+    "text_2":"Драматично моћнији систем камера. Екран тако реагује да свака интеракција поново изгледа као нова. Најбржи чип за паметни телефон на свету. Изузетна издржљивост. И огроман скок у трајању батерије.",
+    "text_2_pro":"Лет’с Про.",
     "text_3":"Није ни чудо да ваше фотографије изгледају тако добро.",
     "claim_yours":"Узми своје"},
   "MT": {
@@ -516,7 +540,8 @@
     "please_enter_a_valid_email":"Please enter a valid email address",
     "checkbox_policy":" I certify that I am at least 18 years of age, and accept the terms and privacy policy.",
     "continue":"Continue",
-    "text_2":"A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+    "text_2":"A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.",
+    "text_2_pro":"Let’s Pro.",
     "text_3":"No wonder your photos look so good.",
     "claim_yours":"Claim yours"},
   "MY": {
@@ -536,7 +561,8 @@
     "please_enter_a_valid_email":"Sila masukkan alamat emel yang sah",
     "checkbox_policy":" Saya memperakui bahawa saya berumur sekurang-kurangnya 18 tahun, dan menerima terma dan dasar privasi.",
     "continue":"Teruskan",
-    "text_2":"Sistem kamera yang lebih berkuasa secara dramatik. Paparan yang sangat responsif, setiap interaksi terasa baharu semula. Cip telefon pintar terpantas di dunia. Ketahanan yang luar biasa. Dan satu lonjakan besar dalam hayat bateri.Jom Pro.",
+    "text_2":"Sistem kamera yang lebih berkuasa secara dramatik. Paparan yang sangat responsif, setiap interaksi terasa baharu semula. Cip telefon pintar terpantas di dunia. Ketahanan yang luar biasa. Dan satu lonjakan besar dalam hayat bateri.",
+    "text_2_pro":"Jom Pro.",
     "text_3":"Tidak hairanlah gambar anda kelihatan sangat bagus.",
     "claim_yours":"Tuntut milik anda"},
   "NL": {
@@ -556,7 +582,8 @@
     "please_enter_a_valid_email":"Vul een geldig e-mailadres in",
     "checkbox_policy":" Ik verklaar dat ik ten minste 18 jaar oud ben en de voorwaarden en het privacybeleid accepteer.",
     "continue":"Doorgaan met",
-    "text_2":"Een camera­systeem met drastisch meer power. Een display dat zo snel reageert dat alles weer nieuw voelt. De snelste smartphone-chip ter wereld. Uitzonderlijk robuust. En een grote sprong vooruit in batterijduur.Pro en go.",
+    "text_2":"Een camera­systeem met drastisch meer power. Een display dat zo snel reageert dat alles weer nieuw voelt. De snelste smartphone-chip ter wereld. Uitzonderlijk robuust. En een grote sprong vooruit in batterijduur.",
+    "text_2_pro":"Pro, en go.",
     "text_3":"Niet zo gek dat je foto's er zo goed uitzien.",
     "claim_yours":"Pak je eigen"},
   "NO": {
@@ -576,7 +603,8 @@
     "please_enter_a_valid_email":"Vennligst skriv inn en gyldig e-post adresse",
     "checkbox_policy":" Jeg bekrefter at jeg er minst 18 år gammel, og godtar vilkårene og personvernreglene.",
     "continue":"Fortsette",
-    "text_2":"Et enormt mye kraftigere kamerasystem. En skjerm som er så responsiv at alt du gjør med den føles nytt. Verdens raskeste chip i en smarttelefon. Usedvanlig solid. Og et stort byks i batteritid.Gå for Pro.",
+    "text_2":"Et enormt mye kraftigere kamerasystem. En skjerm som er så responsiv at alt du gjør med den føles nytt. Verdens raskeste chip i en smarttelefon. Usedvanlig solid. Og et stort byks i batteritid.",
+    "text_2_pro":"Gå for Pro.",
     "text_3":"Ikke rart bildene dine ser så bra ut.",
     "claim_yours":"Få din"},
   "NZ": {
@@ -596,7 +624,8 @@
     "please_enter_a_valid_email":"Please enter a valid email address",
     "checkbox_policy":" I certify that I am at least 18 years of age, and accept the terms and privacy policy.",
     "continue":"Continue",
-    "text_2":"A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+    "text_2":"A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.",
+    "text_2_pro":"Let’s Pro.",
     "text_3":"No wonder your photos look so good.",
     "claim_yours":"Claim yours"},
   "PH": {
@@ -616,7 +645,8 @@
     "please_enter_a_valid_email":"Mangyaring magpasok ng wastong email address",
     "checkbox_policy":" Pinapatunayan ko na ako ay hindi bababa sa 18 taong gulang, at tinatanggap ang mga tuntunin at patakaran sa privacy.",
     "continue":"Magpatuloy",
-    "text_2":"Isang mas malakas na sistema ng camera. Isang display na napakaresponsable, ang bawat pakikipag-ugnayan ay parang bago muli. Pinakamabilis na smartphone chip sa mundo. Pambihirang tibay. At isang malaking hakbang sa buhay ng baterya. Pro tayo.",
+    "text_2":"Isang mas malakas na sistema ng camera. Isang display na napakaresponsable, ang bawat pakikipag-ugnayan ay parang bago muli. Pinakamabilis na smartphone chip sa mundo. Pambihirang tibay. At isang malaking hakbang sa buhay ng baterya.",
+    "text_2_pro":"Pro tayo.",
     "text_3":"Hindi nakakagulat na napakaganda ng iyong mga larawan.",
     "claim_yours":"Kunin ang sa iyo"},
   "PT": {
@@ -636,7 +666,8 @@
     "please_enter_a_valid_email":"Por favor insira um endereço de e-mail válido",
     "checkbox_policy":" Certifico que tenho pelo menos 18 anos de idade e aceito os termos e a política de privacidade.",
     "continue":"Prosseguir",
-    "text_2":"Um sistema de câmaras revolucionário. Um ecrã tão reativo que surpreende a cada toque. O processador mais rápido num smartphone. Resistência excecional. A maior autonomia de sempre do iPhone.É mesmo Pro.",
+    "text_2":"Um sistema de câmaras revolucionário. Um ecrã tão reativo que surpreende a cada toque. O processador mais rápido num smartphone. Resistência excecional. A maior autonomia de sempre do iPhone.",
+    "text_2_pro":"É mesmo Pro.",
     "text_3":"Não admira que suas fotos sejam tão boas.",
     "claim_yours":"Pegue o seu"},
   "RS": {
@@ -656,7 +687,8 @@
     "please_enter_a_valid_email":"Унесите исправну е-маил адресу",
     "checkbox_policy":" Потврђујем да имам најмање 18 година и прихватам услове и политику приватности.",
     "continue":"Настави",
-    "text_2":"Драматично моћнији систем камера. Екран тако реагује да свака интеракција поново изгледа као нова. Најбржи чип за паметни телефон на свету. Изузетна издржљивост. И огроман скок у трајању батерије.<бр>Лет’с Про.",
+    "text_2":"Драматично моћнији систем камера. Екран тако реагује да свака интеракција поново изгледа као нова. Најбржи чип за паметни телефон на свету. Изузетна издржљивост. И огроман скок у трајању батерије.",
+    "text_2_pro":"Лет’с Про.",
     "text_3":"Није ни чудо да ваше фотографије изгледају тако добро.",
     "claim_yours":"Узми своје"},
   "SA": {
@@ -677,6 +709,7 @@
     "checkbox_policy":" أقر بأن عمري لا يقل عن 18 عامًا ، وأوافق على الشروط وسياسة الخصوصية.",
     "continue":"يكمل",
     "text_2":"نظام كاميرا أكثر قوة بشكل كبير. شاشة سريعة الاستجابة ، كل تفاعل يبدو جديدًا مرة أخرى. أسرع شريحة هاتف ذكي في العالم. متانة استثنائية. وقفزة هائلة في عمر البطارية.  هيا بنا للمحترفين.",
+    "text_2_pro": "هيا بنا للمحترفين.",
     "text_3":"لا عجب أن صورك تبدو جيدة جدا.",
     "claim_yours":"احصل على لك"},
   "SE": {
@@ -696,7 +729,8 @@
     "please_enter_a_valid_email":"Ange en giltig e-postadress",
     "checkbox_policy":" Jag intygar att jag är minst 18 år gammal och accepterar villkoren och integritetspolicyn.",
     "continue":"Fortsätta",
-    "text_2":"Ett kamerasystem med mycket mer kraft. En skärm så följsam att varje tryck och svep känns som en ny upplevelse. Världens snabbaste chip i en smartphone. Extremt tålig. Och ett stort språng för batteritiden.Det är Pro. Nu kör vi.",
+    "text_2":"Ett kamerasystem med mycket mer kraft. En skärm så följsam att varje tryck och svep känns som en ny upplevelse. Världens snabbaste chip i en smartphone. Extremt tålig. Och ett stort språng för batteritiden.Det är Pro.",
+    "text_2_pro": "Nu kör vi.",
     "text_3":"Inte konstigt att dina bilder är så bra.",
     "claim_yours":"Ta din"},
   "SG": {
@@ -716,7 +750,8 @@
     "please_enter_a_valid_email":"请输入有效的电子邮件地址",
     "checkbox_policy":" 我证明我已年满 18 岁，并接受条款和隐私政策。",
     "continue":"继续",
-    "text_2":"Pro 级摄像头系统，能力强悍提升； 显示屏响应之快，让体验全面刷新； 芯片速度再创 iPhone 巅峰； 坚固耐用的设计，出类拔萃； 电池续航更是大步飞跃。来吧，Pro 起来。",
+    "text_2":"Pro 级摄像头系统，能力强悍提升； 显示屏响应之快，让体验全面刷新； 芯片速度再创 iPhone 巅峰； 坚固耐用的设计，出类拔萃； 电池续航更是大步飞跃。",
+    "text_2_pro": "来吧，Pro 起来。",
     "text_3":"难怪你在照片上看起来很好。",
     "claim_yours":"得到你的"},
   "SI": {
@@ -736,7 +771,8 @@
     "please_enter_a_valid_email":"Vnesite veljaven elektronski naslov",
     "checkbox_policy":" Potrjujem, da sem star najmanj 18 let in sprejemam pogoje in politiko zasebnosti.",
     "continue":"Nadaljuj",
-    "text_2":"Dramatično močnejši sistem kamer. Zaslon tako odziven, da je vsaka interakcija spet nova. Najhitrejši čip za pametni telefon na svetu. Izjemna vzdržljivost. In velik preskok v življenjskem obdobju baterije.Let's Pro.",
+    "text_2":"Dramatično močnejši sistem kamer. Zaslon tako odziven, da je vsaka interakcija spet nova. Najhitrejši čip za pametni telefon na svetu. Izjemna vzdržljivost. In velik preskok v življenjskem obdobju baterije.",
+    "text_2_pro":"Poďme Pro.",
     "text_3":"Ni čudno, da so vaše fotografije videti tako dobre.",
     "claim_yours":"Zahtevajte svoje"},
   "SK": {
@@ -757,6 +793,7 @@
     "checkbox_policy":" Potvrdzujem, že mám aspoň 18 rokov a súhlasím s podmienkami a zásadami ochrany osobných údajov.",
     "continue":"Continue",
     "text_2":"Dramaticky zdokonalená sústava kamier. Displej, ktorý reaguje tak bezprostredne, že ťa zakaždým prekvapí. Najrýchlejší čip v smartfóne na svete. Výnimočná odolnosť. A obrovský skok vo výdrži batérie.Buď Pro.",
+    "text_2_pro":"Buď Pro.",
     "text_3":"Vaša fotografia je výsledkom tímovej práce.",
     "claim_yours":"Požiadajte o svoje"},
   "TR": {
@@ -776,7 +813,8 @@
     "please_enter_a_valid_email":"Geçerli bir e",
     "checkbox_policy":" En az 18 yaşında olduğumu onaylıyor ve şartları ve gizlilik politikasını kabul ediyorum.",
     "continue":"Devam et",
-    "text_2":"Çarpıcı biçimde daha güçlü bir kamera sistemi. Her etkileşimde sizi içine alan süper akıcı bir ekran. Dünyanın en hızlı akıllı telefon çipi. Sıra dışı bir dayanıklılık. Pil ömründe büyük bir gelişme.O bir Pro.",
+    "text_2":"Çarpıcı biçimde daha güçlü bir kamera sistemi. Her etkileşimde sizi içine alan süper akıcı bir ekran. Dünyanın en hızlı akıllı telefon çipi. Sıra dışı bir dayanıklılık. Pil ömründe büyük bir gelişme.",
+    "text_2_pro": "O bir Pro.",
     "text_3":"Fotoğraflarınızın bu kadar harika olmasına şaşmamalı.",
     "claim_yours":"Seninkini al"},
   "AE": {
@@ -796,7 +834,8 @@
     "please_enter_a_valid_email":"يرجى إدخال عنوان بريد إلكتروني صالح",
     "checkbox_policy":" أقر بأن عمري لا يقل عن 18 عامًا ، وأوافق على الشروط وسياسة الخصوصية.",
     "continue":"يكمل",
-    "text_2":"نظام كاميرا أكثر قوة بشكل كبير. شاشة سريعة الاستجابة ، كل تفاعل يبدو جديدًا مرة أخرى. أسرع شريحة هاتف ذكي في العالم. متانة استثنائية. وقفزة هائلة في عمر البطارية.  هيا بنا للمحترفين.",
+    "text_2":"نظام كاميرا أكثر قوة بشكل كبير. شاشة سريعة الاستجابة ، كل تفاعل يبدو جديدًا مرة أخرى. أسرع شريحة هاتف ذكي في العالم. متانة استثنائية. وقفزة هائلة في عمر البطارية.",
+    "text_2_pro": "  هيا بنا للمحترفين.",
     "text_3":"لا عجب أن صورك تبدو جيدة جدا.",
     "claim_yours":"احصل على لك"},
   "ZA": {
@@ -816,7 +855,8 @@
     "please_enter_a_valid_email":"Please enter a valid email address",
     "checkbox_policy":" I certify that I am at least 18 years of age, and accept the terms and privacy policy.",
     "continue":"Continue",
-    "text_2":"A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+    "text_2":"A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.",
+    "text_2_pro": "Let’s Pro.",
     "text_3":"No wonder your photos look so good.",
     "claim_yours":"Claim yours"}
 
