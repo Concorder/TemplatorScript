@@ -20,7 +20,7 @@
     "text_2_pro": "Let's Pro",
     "text_3": "No wonder your photos look so good.",
     "claim_yours": "Claim yours",
-    "timer": "Limited offer:"
+    "limited_offer": "Limited offer:"
   },
   "IE": {
     "cta": "Fill the form and claim the new iPhone 13 Pro!",
@@ -43,7 +43,7 @@
     "text_2_pro": "Let's Pro",
     "text_3": "No wonder your photos look so good.",
     "claim_yours": "Claim yours",
-    "timer": "Limited offer:"
+    "limited_offer": "Limited offer:"
   },
   "US": {
     "cta": "Fill the form and claim the new iPhone 13 Pro!",
@@ -66,7 +66,7 @@
     "text_2_pro": "Let's Pro",
     "text_3": "No wonder your photos look so good.",
     "claim_yours": "Claim yours",
-    "timer": ""
+    "limited_offer": ""
   },
   "UK": {
     "cta": "Fill the form and claim the new iPhone 13 Pro!",
@@ -89,7 +89,7 @@
     "text_2_pro": "Let's Pro",
     "text_3": "No wonder your photos look so good.",
     "claim_yours": "Claim yours",
-    "timer": "Limited offer:"
+    "limited_offer": "Limited offer:"
   },
   "CA": {
     "cta": "Fill the form and claim the new iPhone 13 Pro!",
@@ -112,7 +112,7 @@
     "text_2_pro": "Let's Pro",
     "text_3": "No wonder your photos look so good.",
     "claim_yours": "Claim yours",
-    "timer": "Limited offer:"
+    "limited_offer": "Limited offer:"
   },
   "AT": {
     "cta": "Füllen Sie das Formular aus und fordern Sie das neue iPhone 13 Pro an!",
@@ -135,7 +135,7 @@
     "text_2_pro": "Das ist Pro.",
     "text_3": "Kein Wunder, dass deine Fotos so gut aussehen.",
     "claim_yours": "Nimm deines",
-    "timer": "Begrenztes Angebot:"
+    "limited_offer": "Begrenztes Angebot:"
   },
   "DE": {
     "cta": "Füllen Sie das Formular aus und fordern Sie das neue iPhone 13 Pro an!",
@@ -158,7 +158,7 @@
     "text_2_pro": "Das ist Pro.",
     "text_3": "Kein Wunder, dass deine Fotos so gut aussehen.",
     "claim_yours": "Nimm deines",
-    "timer": "Begrenztes Angebot:"
+    "limited_offer": "Begrenztes Angebot:"
   },
   "CH": {
     "cta": "Füllen Sie das Formular aus und fordern Sie das neue iPhone 13 Pro an!",
@@ -181,7 +181,7 @@
     "text_2_pro": "Das ist Pro.",
     "text_3": "Kein Wunder, dass deine Fotos so gut aussehen.",
     "claim_yours": "Nimm deines",
-    "timer": "Begrenztes Angebot:"
+    "limited_offer": "Begrenztes Angebot:"
   },
   "FR": {
     "cta": "Remplissez le formulaire et réclamez le nouvel iPhone 13 Pro!",
@@ -204,7 +204,7 @@
     "text_2_pro": "À vos marques. Pro. Partez.",
     "text_3": "Voilà pourquoi le selfie vous va si bien.",
     "claim_yours": "Réclamez le vôtre",
-    "timer": "Оffre limitée:"
+    "limited_offer": "Оffre limitée:"
   },
   "BE": {
     "cta": "Remplissez le formulaire et réclamez le nouvel iPhone 13 Pro!",
@@ -227,7 +227,7 @@
     "text_2_pro": "À vos marques. Pro. Partez.",
     "text_3": "Voilà pourquoi le selfie vous va si bien.",
     "claim_yours": "Réclamez le vôtre",
-    "timer": "Оffre limitée:"
+    "limited_offer": "Оffre limitée:"
   },
   "BG": {
     "cta": "Попълнете формуляра и вземете новия iPhone 13 Pro!",
@@ -250,7 +250,7 @@
     "text_2_pro": "Ето това е Про.",
     "text_3": "Не случайно снимките изглеждат толкова добре.",
     "claim_yours": "Вземете своето",
-    "timer": "Ограничена оферта:"
+    "limited_offer": "Ограничена оферта:"
   },
   "BR": {
     "cta": "Preencha o formulário e solicite o novo iPhone 13 Pro!",
@@ -273,7 +273,7 @@
     "text_2_pro": "É Pro e pronto.",
     "text_3": "Não é à toa que suas selfies ficam lindas.",
     "claim_yours": "Obtenha o seu",
-    "timer": "Оferta limitada:"
+    "limited_offer": "Оferta limitada:"
   },
   "CY": {
     "cta": "Συμπληρώστε τη φόρμα και διεκδικήστε το νέο iPhone 13 Pro!",
@@ -296,7 +296,7 @@
     "text_2_pro": "Μπες στον κόσμο του Pro.",
     "text_3": "Δεν είναι τυχαίο που οι φωτογραφίες σου είναι εκπληκτικές.",
     "claim_yours": "Πάρε το δικό σου",
-    "timer": "Περιορισμένη προσφορά:"
+    "limited_offer": "Περιορισμένη προσφορά:"
   },
   "GR": {
     "cta": "Συμπληρώστε τη φόρμα και διεκδικήστε το νέο iPhone 13 Pro!",
@@ -319,7 +319,7 @@
     "text_2_pro": "Μπες στον κόσμο του Pro.",
     "text_3": "Δεν είναι τυχαίο που οι φωτογραφίες σου είναι εκπληκτικές.",
     "claim_yours": "Πάρε το δικό σου",
-    "timer": "Περιορισμένη προσφορά:"
+    "limited_offer": "Περιορισμένη προσφορά:"
   },
   "CZ": {
     "cta": "Vyplňte formulář a vyzvedněte si nový iPhone 13 Pro!",
@@ -342,7 +342,7 @@
     "text_2_pro": "Jsi Pro?",
     "text_3": "není divu, že ti to na fotkách tak sluší.",
     "claim_yours": "Získejte své",
-    "timer": "Omezená nabídka:"
+    "limited_offer": "Omezená nabídka:"
   },
   "DK": {
     "cta": "Udfyld formularen og få den nye iPhone 13 Pro!",
@@ -365,7 +365,7 @@
     "text_2_pro": "Klar til Pro?",
     "text_3": "Ikke så underligt, at dine billeder er så gode.",
     "claim_yours": "Få din",
-    "timer": "Begrænset tilbud:"
+    "limited_offer": "Begrænset tilbud:"
   },
   "ES": {
     "cta": "¡Rellena el formulario y reclama el nuevo iPhone 13 Pro!",
@@ -388,7 +388,7 @@
     "text_2_pro": "Es todo un Pro.",
     "text_3": "Normal que tus fotos se salgan de lo normal.",
     "claim_yours": "Consigue el tuyo",
-    "timer": "Oferta limitada:"
+    "limited_offer": "Oferta limitada:"
   },
   "FI": {
     "cta": "Täytä lomake ja hanki uusi iPhone 13 Pro!",
@@ -411,7 +411,7 @@
     "text_2_pro": "Pro mikä pro.",
     "text_3": "Ei ihme että näytät niin hyvältä kuvissasi.",
     "claim_yours": "Hanki omasi",
-    "timer": "Rajoitettu tarjous:"
+    "limited_offer": "Rajoitettu tarjous:"
   },
   "HU": {
     "cta": "Töltse ki az űrlapot, és szerezze be az új iPhone 13 Pro-t!",
@@ -434,7 +434,7 @@
     "text_2_pro": "Minden Pro lesz.",
     "text_3": "Nem csoda, hogy ilyen csodásak a fotóid.",
     "claim_yours": "Igényelje a magáét",
-    "timer": "Korlátozott ajánlat:"
+    "limited_offer": "Korlátozott ajánlat:"
   },
   "ID": {
     "cta": "Isi formulir dan klaim iPhone 13 Pro baru!",
@@ -457,7 +457,7 @@
     "text_2_pro": "Ayo jadi Pro.",
     "text_3": "Tak heran foto Anda begitu menawan.",
     "claim_yours": "Dapatkan milikmu",
-    "timer": "Penawaran terbatas:"
+    "limited_offer": "Penawaran terbatas:"
   },
   "IT": {
     "cta": "Compila il modulo e richiedi il nuovo iPhone 13 Pro!",
@@ -480,7 +480,7 @@
     "text_2_pro": "Entra nel mondo Pro.",
     "text_3": "Non è un caso che le tue foto siano così belle.",
     "claim_yours": "Prendi il tuo",
-    "timer": "Offerta limitata:"
+    "limited_offer": "Offerta limitata:"
   },
   "LT": {
     "cta": "Užpildykite formą ir gaukite naują iPhone 13 Pro!",
@@ -503,7 +503,7 @@
     "text_2_pro": "Tai protingasis „Pro“.",
     "text_3": "Nenuostabu, kad jūsų nuotraukos atrodo taip nuostabiai.",
     "claim_yours": "Gaukite savo",
-    "timer": "Ribotas pasiūlymas:"
+    "limited_offer": "Ribotas pasiūlymas:"
   },
   "LU": {
     "cta": "Remplissez le formulaire et réclamez le nouvel iPhone 13 Pro!",
@@ -526,7 +526,7 @@
     "text_2_pro": "À vos marques. Pro. Partez.",
     "text_3": "Voilà pourquoi le selfie vous va si bien.",
     "claim_yours": "Réclamez le vôtre",
-    "timer": "Limitéiert Offer:"
+    "limited_offer": "Limitéiert Offer:"
   },
   "LV": {
     "cta": "Aizpildiet veidlapu un pieprasiet jauno iPhone 13 Pro!",
@@ -549,7 +549,7 @@
     "text_2_pro": "Tas. Ir. Pro.",
     "text_3": "Nav brīnums, ka jūsu fotoattēli izskatās tik labi.",
     "claim_yours": "Iegūstiet savu",
-    "timer": "Ierobežots piedāvājums:"
+    "limited_offer": "Ierobežots piedāvājums:"
   },
   "ME": {
     "cta": "Попуните формулар и затражите нови iPhone 13 Pro!",
@@ -572,7 +572,7 @@
     "text_2_pro": "Лет’с Про.",
     "text_3": "Није ни чудо да ваше фотографије изгледају тако добро.",
     "claim_yours": "Узми своје",
-    "timer": "Ограничена понуда:"
+    "limited_offer": "Ограничена понуда:"
   },
   "MT": {
     "cta": "Fill the form and claim the new iPhone 13 Pro!",
@@ -595,7 +595,7 @@
     "text_2_pro": "Let’s Pro.",
     "text_3": "No wonder your photos look so good.",
     "claim_yours": "Claim yours",
-    "timer": "Limited offer:"
+    "limited_offer": "Limited offer:"
   },
   "MY": {
     "cta": "Isi borang dan tuntut iPhone 13 Pro baharu!",
@@ -618,7 +618,7 @@
     "text_2_pro": "Jom Pro.",
     "text_3": "Tidak hairanlah gambar anda kelihatan sangat bagus.",
     "claim_yours": "Tuntut milik anda",
-    "timer": "Tawaran terhad:"
+    "limited_offer": "Tawaran terhad:"
   },
   "NL": {
     "cta": "Vul het formulier in en claim de nieuwe iPhone 13 Pro!",
@@ -641,7 +641,7 @@
     "text_2_pro": "Pro, en go.",
     "text_3": "Niet zo gek dat je foto's er zo goed uitzien.",
     "claim_yours": "Pak je eigen",
-    "timer": "Beperkt aanbod:"
+    "limited_offer": "Beperkt aanbod:"
   },
   "NO": {
     "cta": "Fyll ut skjemaet og gjør krav på den nye iPhone 13 Pro!",
@@ -664,7 +664,7 @@
     "text_2_pro": "Gå for Pro.",
     "text_3": "Ikke rart bildene dine ser så bra ut.",
     "claim_yours": "Få din",
-    "timer": "Begrenset tilbud:"
+    "limited_offer": "Begrenset tilbud:"
   },
   "NZ": {
     "cta": "Fill the form and claim the new iPhone 13 Pro!",
@@ -687,7 +687,7 @@
     "text_2_pro": "Let’s Pro.",
     "text_3": "No wonder your photos look so good.",
     "claim_yours": "Claim yours",
-    "timer": "Limited offer:"
+    "limited_offer": "Limited offer:"
   },
   "PH": {
     "cta": "Punan ang form at kunin ang bagong iPhone 13 Pro!",
@@ -710,7 +710,7 @@
     "text_2_pro": "Pro tayo.",
     "text_3": "Hindi nakakagulat na napakaganda ng iyong mga larawan.",
     "claim_yours": "Kunin ang sa iyo",
-    "timer": "Limitadong alok:"
+    "limited_offer": "Limitadong alok:"
   },
   "PT": {
     "cta": "Preencha o formulário e solicite o novo iPhone 13 Pro!",
@@ -733,7 +733,7 @@
     "text_2_pro": "É mesmo Pro.",
     "text_3": "Não admira que suas fotos sejam tão boas.",
     "claim_yours": "Pegue o seu",
-    "timer": "Oferta limitada:"
+    "limited_offer": "Oferta limitada:"
   },
   "RS": {
     "cta": "Попуните формулар и затражите нови иПхоне 13 Про!",
@@ -756,7 +756,7 @@
     "text_2_pro": "Хајдемо Про.",
     "text_3": "Није ни чудо да ваше фотографије изгледају тако добро.",
     "claim_yours": "Узми своје",
-    "timer": "Ограничена понуда:"
+    "limited_offer": "Ограничена понуда:"
   },
   "SA": {
     "cta": "املأ النموذج واطلب iPhone 13 Pro الجديد!",
@@ -779,7 +779,7 @@
     "text_2_pro": "هيا بنا للمحترفين.",
     "text_3": "لا عجب أن صورك تبدو جيدة جدا.",
     "claim_yours": "احصل على لك",
-    "timer": "عرض محدود:"
+    "limited_offer": "عرض محدود:"
   },
   "SE": {
     "cta": "Fyll i formuläret och hämta den nya iPhone 13 Pro!",
@@ -802,7 +802,7 @@
     "text_2_pro": "Det är Pro. Nu kör vi.",
     "text_3": "Inte konstigt att dina bilder är så bra.",
     "claim_yours": "Ta din",
-    "timer": "Begränsat erbjudande:"
+    "limited_offer": "Begränsat erbjudande:"
   },
   "SG": {
     "cta": "填写表格并领取新的 iPhone 13 Pro！",
@@ -825,7 +825,7 @@
     "text_2_pro": "来吧，Pro 起来。",
     "text_3": "难怪你在照片上看起来很好。",
     "claim_yours": "得到你的",
-    "timer": ""
+    "limited_offer": "限量优惠"
   },
   "SI": {
     "cta": "Izpolnite obrazec in zahtevajte novi iPhone 13 Pro!",
@@ -848,7 +848,7 @@
     "text_2_pro": "Poďme Pro.",
     "text_3": "Ni čudno, da so vaše fotografije videti tako dobre.",
     "claim_yours": "Zahtevajte svoje",
-    "timer": ""
+    "limited_offer": "Omejena ponudba:"
   },
   "SK": {
     "cta": "Vyplňte formulár a požiadajte o nový iPhone 13 Pro!",
@@ -871,7 +871,7 @@
     "text_2_pro": "Buď Pro.",
     "text_3": "Vaša fotografia je výsledkom tímovej práce.",
     "claim_yours": "Požiadajte o svoje",
-    "timer": ""
+    "limited_offer": "Limitovaná ponuka:"
   },
   "TR": {
     "cta": "Formu doldurun ve yeni iPhone 13 Pro'yu talep edin!",
@@ -894,7 +894,7 @@
     "text_2_pro": "O bir Pro.",
     "text_3": "Fotoğraflarınızın bu kadar harika olmasına şaşmamalı.",
     "claim_yours": "Seninkini al",
-    "timer": ""
+    "limited_offer": "Sınırlı teklif"
   },
   "AE": {
     "cta": "املأ النموذج واطلب iPhone 13 Pro الجديد!",
@@ -917,7 +917,7 @@
     "text_2_pro": "  هيا بنا للمحترفين.",
     "text_3": "لا عجب أن صورك تبدو جيدة جدا.",
     "claim_yours": "احصل على لك",
-    "timer": ""
+    "limited_offer": "عرض محدود"
   },
   "ZA": {
     "cta": "Fill the form and claim the new iPhone 13 Pro!",
@@ -939,6 +939,7 @@
     "text_2": "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.",
     "text_2_pro": "Let’s Pro.",
     "text_3": "No wonder your photos look so good.",
-    "claim_yours": "Claim yours"
+    "claim_yours": "Claim yours",
+    "limited_offer": "Limited offer:"
   }
 }
