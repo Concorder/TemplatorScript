@@ -1,0 +1,13 @@
+{
+  "UK":{
+    "cta1": "Complete the form to finish the process",
+    "total": "Total",
+    "cta2": "Start your FREE trial NOW:",
+    "order_id": "Your order id is:",
+    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is £1.00 to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"payment_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
+    "copyright": "copyright"
+  }
+
+}
+
+
