@@ -4,7 +4,7 @@
     "total": "Total",
     "cta2": "Start your FREE trial NOW:",
     "order_id": "Your order id is:",
-    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is £1.00 to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"payment_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
+    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is <span class=\"price_po\">1</span> to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"price_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
     "copyright": "copyright"
   },
   "IE": {
@@ -12,7 +12,7 @@
     "total": "Total",
     "cta2": "Start your FREE trial NOW:",
     "order_id": "Your order id is:",
-    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is £1.00 to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"payment_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
+    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is <span class=\"price_po\">1</span> to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"price_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
     "copyright": "copyright"
   },
   "US": {
@@ -20,7 +20,7 @@
     "total": "Total",
     "cta2": "Start your FREE trial NOW:",
     "order_id": "Your order id is:",
-    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is £1.00 to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"payment_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
+    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is <span class=\"price_po\">1</span> to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"price_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
     "copyright": "copyright"
   },
   "UK": {
@@ -28,7 +28,7 @@
     "total": "Total",
     "cta2": "Start your FREE trial NOW:",
     "order_id": "Your order id is:",
-    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is £1.00 to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"payment_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
+    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is <span class=\"price_po\">1</span> to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"price_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
     "copyright": "copyright"
   },
   "CA": {
@@ -36,7 +36,7 @@
     "total": "Total",
     "cta2": "Start your FREE trial NOW:",
     "order_id": "Your order id is:",
-    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is £1.00 to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"payment_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
+    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is <span class=\"price_po\">1</span> to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"price_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
     "copyright": "copyright"
   },
   "AT": {
@@ -44,7 +44,7 @@
     "total": "Total",
     "cta2": "Start your FREE trial NOW:",
     "order_id": "Your order id is:",
-    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is £1.00 to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"payment_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
+    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is <span class=\"price_po\">1</span> to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"price_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
     "copyright": "copyright"
   },
   "DE": {
@@ -52,7 +52,7 @@
     "total": "Gesamt",
     "cta2": "Start your FREE trial NOW:",
     "order_id": "Ihre Bestell-ID lautet:",
-    "tnc": "Wir unternehmen einen zusätzlichen Schritt, um Ihre Karte zu bestätigen, damit wir überprüfen können, ob die Karte gültig ist und Sie der Karteninhaber sind. Die Belastung der Karte beträgt <span class=\"payment_po \">1.00</span> £. Sobald die Karte bestätigt wurde, wird die Belastung sofort zurückerstattet. Je nach Kartenherausgeber kann es bis zu 30 Tage dauern, bis die Rückerstattung auf Ihrer Kartenabrechnung erscheint. In 3 Tagen setzen wir Ihre Mitgliedschaft automatisch fort und berechnen den monatlichen Mitgliedsbeitrag (derzeit <span class=\"payment_db \">28,95</span>) auf Ihre Zahlungsmethode, bis Sie kündigen. Sie können jederzeit kündigen, um zukünftige Gebühren zu vermeiden",
+    "tnc": "Wir unternehmen einen zusätzlichen Schritt, um Ihre Karte zu bestätigen, damit wir überprüfen können, ob die Karte gültig ist und Sie der Karteninhaber sind. Die Belastung der Karte beträgt <span class=\"price_po \">1.00</span> £. Sobald die Karte bestätigt wurde, wird die Belastung sofort zurückerstattet. Je nach Kartenherausgeber kann es bis zu 30 Tage dauern, bis die Rückerstattung auf Ihrer Kartenabrechnung erscheint. In 3 Tagen setzen wir Ihre Mitgliedschaft automatisch fort und berechnen den monatlichen Mitgliedsbeitrag (derzeit <span class=\"price_db \">28,95</span>) auf Ihre Zahlungsmethode, bis Sie kündigen. Sie können jederzeit kündigen, um zukünftige Gebühren zu vermeiden",
     "copyright": "Urheberrecht"
   },
   "CH": {
@@ -60,7 +60,7 @@
     "total": "Gesamt",
     "cta2": "Start your FREE trial NOW:",
     "order_id": "Ihre Bestell-ID lautet:",
-    "tnc": "Wir unternehmen einen zusätzlichen Schritt, um Ihre Karte zu bestätigen, damit wir überprüfen können, ob die Karte gültig ist und Sie der Karteninhaber sind. Die Belastung der Karte beträgt <span class=\"payment_po \">1.00</span> £. Sobald die Karte bestätigt wurde, wird die Belastung sofort zurückerstattet. Je nach Kartenherausgeber kann es bis zu 30 Tage dauern, bis die Rückerstattung auf Ihrer Kartenabrechnung erscheint. In 3 Tagen setzen wir Ihre Mitgliedschaft automatisch fort und berechnen den monatlichen Mitgliedsbeitrag (derzeit <span class=\"payment_db \">28,95</span>) auf Ihre Zahlungsmethode, bis Sie kündigen. Sie können jederzeit kündigen, um zukünftige Gebühren zu vermeiden",
+    "tnc": "Wir unternehmen einen zusätzlichen Schritt, um Ihre Karte zu bestätigen, damit wir überprüfen können, ob die Karte gültig ist und Sie der Karteninhaber sind. Die Belastung der Karte beträgt <span class=\"price_po \">1.00</span> £. Sobald die Karte bestätigt wurde, wird die Belastung sofort zurückerstattet. Je nach Kartenherausgeber kann es bis zu 30 Tage dauern, bis die Rückerstattung auf Ihrer Kartenabrechnung erscheint. In 3 Tagen setzen wir Ihre Mitgliedschaft automatisch fort und berechnen den monatlichen Mitgliedsbeitrag (derzeit <span class=\"price_db \">28,95</span>) auf Ihre Zahlungsmethode, bis Sie kündigen. Sie können jederzeit kündigen, um zukünftige Gebühren zu vermeiden",
     "copyright": "Urheberrecht"
   },
   "FR": {
@@ -68,7 +68,7 @@
     "total": "Total",
     "cta2": "Votre identifiant de commande est:",
     "order_id": "Ihre Bestell-ID lautet:",
-    "tnc": "Nous prenons une étape supplémentaire pour confirmer votre carte afin que nous puissions vérifier que la carte est valide et que vous êtes le propriétaire de la carte. Le débit est de <span class=\"payment_po \">1.00</span> sur la carte. Une fois la carte confirmée, le débit sera immédiatement remboursé. Selon l'émetteur de votre carte, le remboursement peut prendre jusqu'à 30 jours pour apparaître sur votre relevé de carte. Dans 3 jours, nous continuerons automatiquement votre abonnement et facturerons les frais d'abonnement mensuels (actuellement <span class=\"payment_db\">28,95£</span>) sur votre mode de paiement jusqu'à ce que vous annuliez. Vous pouvez annuler à tout moment pour éviter des frais futurs.",
+    "tnc": "Nous prenons une étape supplémentaire pour confirmer votre carte afin que nous puissions vérifier que la carte est valide et que vous êtes le propriétaire de la carte. Le débit est de <span class=\"price_po \">1.00</span> sur la carte. Une fois la carte confirmée, le débit sera immédiatement remboursé. Selon l'émetteur de votre carte, le remboursement peut prendre jusqu'à 30 jours pour apparaître sur votre relevé de carte. Dans 3 jours, nous continuerons automatiquement votre abonnement et facturerons les frais d'abonnement mensuels (actuellement <span class=\"price_db\">28,95£</span>) sur votre mode de paiement jusqu'à ce que vous annuliez. Vous pouvez annuler à tout moment pour éviter des frais futurs.",
     "copyright": "copyright"
   },
   "BE": {
@@ -76,7 +76,7 @@
     "total": "Total",
     "cta2": "Votre identifiant de commande est:",
     "order_id": "Ihre Bestell-ID lautet:",
-    "tnc": "Nous prenons une étape supplémentaire pour confirmer votre carte afin que nous puissions vérifier que la carte est valide et que vous êtes le propriétaire de la carte. Le débit est de <span class=\"payment_po \">1.00</span> sur la carte. Une fois la carte confirmée, le débit sera immédiatement remboursé. Selon l'émetteur de votre carte, le remboursement peut prendre jusqu'à 30 jours pour apparaître sur votre relevé de carte. Dans 3 jours, nous continuerons automatiquement votre abonnement et facturerons les frais d'abonnement mensuels (actuellement <span class=\"payment_db\">28,95£</span>) sur votre mode de paiement jusqu'à ce que vous annuliez. Vous pouvez annuler à tout moment pour éviter des frais futurs.",
+    "tnc": "Nous prenons une étape supplémentaire pour confirmer votre carte afin que nous puissions vérifier que la carte est valide et que vous êtes le propriétaire de la carte. Le débit est de <span class=\"price_po \">1.00</span> sur la carte. Une fois la carte confirmée, le débit sera immédiatement remboursé. Selon l'émetteur de votre carte, le remboursement peut prendre jusqu'à 30 jours pour apparaître sur votre relevé de carte. Dans 3 jours, nous continuerons automatiquement votre abonnement et facturerons les frais d'abonnement mensuels (actuellement <span class=\"price_db\">28,95£</span>) sur votre mode de paiement jusqu'à ce que vous annuliez. Vous pouvez annuler à tout moment pour éviter des frais futurs.",
     "copyright": "copyright"
   },
   "BG": {
@@ -84,7 +84,7 @@
     "total": "Общо",
     "cta2": "Започнете своя БЕЗПЛАТЕН пробен период СЕГА:",
     "order_id": "Ihre Bestell-ID lautet:",
-    "tnc": "Ние предприемаме допълнителна стъпка, за да потвърдим вашата карта, за да можем да потвърдим, че картата е валидна и че вие сте собственикът на картата. Таксата е <span class=\"payment_po \">1.00</span>към картата. След като картата бъде потвърдена, таксата ще ще бъде незабавно възстановено. В зависимост от издателя на вашата карта, може да отнеме до 30 дни, докато възстановяването се появи в извлечението по картата ви. След 3 дни автоматично ще продължим членството ви и ще таксуваме месечна членска такса (понастоящем <span class=\"payment_db \">£28,95</span>) към вашия начин на плащане, докато не анулирате. Можете да анулирате по всяко време, за да избегнете бъдещи такси.",
+    "tnc": "Ние предприемаме допълнителна стъпка, за да потвърдим вашата карта, за да можем да потвърдим, че картата е валидна и че вие сте собственикът на картата. Таксата е <span class=\"price_po \">1.00</span> към картата. След като картата бъде потвърдена, таксата ще ще бъде незабавно възстановено. В зависимост от издателя на вашата карта, може да отнеме до 30 дни, докато възстановяването се появи в извлечението по картата ви. След 3 дни автоматично ще продължим членството ви и ще таксуваме месечна членска такса (понастоящем <span class=\"price_db \">£28,95</span>) към вашия начин на плащане, докато не анулирате. Можете да анулирате по всяко време, за да избегнете бъдещи такси.",
     "copyright": "авторско право"
   },
   "BR": {
@@ -92,7 +92,7 @@
     "total": "Total",
     "cta2": "Comece sua avaliação GRATUITA AGORA:",
     "order_id": "Seu ID de pedido é:",
-    "tnc": "Damos um passo extra para confirmar o seu cartão para que possamos verificar se o cartão é válido e se você é o proprietário do cartão. A cobrança é de <span class=\"payment_po \">1.00</span> no cartão. Assim que o cartão for confirmado, a cobrança será será reembolsado imediatamente. Dependendo do emissor do cartão, pode levar até 30 dias para que o reembolso apareça no extrato do cartão. Em 3 dias, continuaremos automaticamente a sua assinatura e cobraremos a taxa de assinatura mensal (atualmente <span class = \"payment_db\">28,95 </span>) no seu método de pagamento até que você cancele. Você pode cancelar a qualquer momento para evitar cobranças futuras.",
+    "tnc": "Damos um passo extra para confirmar o seu cartão para que possamos verificar se o cartão é válido e se você é o proprietário do cartão. A cobrança é de <span class=\"price_po \">1.00</span> no cartão. Assim que o cartão for confirmado, a cobrança será será reembolsado imediatamente. Dependendo do emissor do cartão, pode levar até 30 dias para que o reembolso apareça no extrato do cartão. Em 3 dias, continuaremos automaticamente a sua assinatura e cobraremos a taxa de assinatura mensal (atualmente <span class = \"price_db\">28,95 </span>) no seu método de pagamento até que você cancele. Você pode cancelar a qualquer momento para evitar cobranças futuras.",
     "copyright": "copyright"
   },
   "CY": {
@@ -100,7 +100,7 @@
     "total": "Σύνολο",
     "cta2": "Ξεκινήστε τη ΔΩΡΕΑΝ δοκιμή ΤΩΡΑ:",
     "order_id": "Το αναγνωριστικό παραγγελίας σας είναι:",
-    "tnc": "Κάνουμε ένα επιπλέον βήμα για να επιβεβαιώσουμε την κάρτα σας, ώστε να μπορέσουμε να επαληθεύσουμε ότι η κάρτα είναι έγκυρη και ότι είστε ο κάτοχος της κάρτας. Η χρέωση είναι <span class=\"payment_po \">1.00</span> στην κάρτα. Μόλις επιβεβαιωθεί η κάρτα, η χρέωση θα θα επιστραφούν αμέσως. Ανάλογα με τον εκδότη της κάρτας σας, μπορεί να χρειαστούν έως και 30 ημέρες για να εμφανιστεί η επιστροφή χρημάτων στο αντίγραφο κίνησης της κάρτας σας. Σε 3 ημέρες θα συνεχίσουμε αυτόματα τη συνδρομή σας και θα χρεώνουμε μηνιαία συνδρομή (προς το παρόν <span class=\"payment_db\">28,95 £</span>) στον τρόπο πληρωμής σας μέχρι να ακυρώσετε. Μπορείτε να ακυρώσετε ανά πάσα στιγμή για να αποφύγετε μελλοντικές χρεώσεις.",
+    "tnc": "Κάνουμε ένα επιπλέον βήμα για να επιβεβαιώσουμε την κάρτα σας, ώστε να μπορέσουμε να επαληθεύσουμε ότι η κάρτα είναι έγκυρη και ότι είστε ο κάτοχος της κάρτας. Η χρέωση είναι <span class=\"price_po \">1.00</span> στην κάρτα. Μόλις επιβεβαιωθεί η κάρτα, η χρέωση θα θα επιστραφούν αμέσως. Ανάλογα με τον εκδότη της κάρτας σας, μπορεί να χρειαστούν έως και 30 ημέρες για να εμφανιστεί η επιστροφή χρημάτων στο αντίγραφο κίνησης της κάρτας σας. Σε 3 ημέρες θα συνεχίσουμε αυτόματα τη συνδρομή σας και θα χρεώνουμε μηνιαία συνδρομή (προς το παρόν <span class=\"price_db\">28,95 £</span>) στον τρόπο πληρωμής σας μέχρι να ακυρώσετε. Μπορείτε να ακυρώσετε ανά πάσα στιγμή για να αποφύγετε μελλοντικές χρεώσεις.",
     "copyright": "πνευματικά δικαιώματα"
   },
   "GR": {
@@ -108,7 +108,7 @@
     "total": "Σύνολο",
     "cta2": "Ξεκινήστε τη ΔΩΡΕΑΝ δοκιμή ΤΩΡΑ:",
     "order_id": "Το αναγνωριστικό παραγγελίας σας είναι:",
-    "tnc": "Κάνουμε ένα επιπλέον βήμα για να επιβεβαιώσουμε την κάρτα σας, ώστε να μπορέσουμε να επαληθεύσουμε ότι η κάρτα είναι έγκυρη και ότι είστε ο κάτοχος της κάρτας. Η χρέωση είναι <span class=\"payment_po \">1.00</span> στην κάρτα. Μόλις επιβεβαιωθεί η κάρτα, η χρέωση θα θα επιστραφούν αμέσως. Ανάλογα με τον εκδότη της κάρτας σας, μπορεί να χρειαστούν έως και 30 ημέρες για να εμφανιστεί η επιστροφή χρημάτων στο αντίγραφο κίνησης της κάρτας σας. Σε 3 ημέρες θα συνεχίσουμε αυτόματα τη συνδρομή σας και θα χρεώνουμε μηνιαία συνδρομή (προς το παρόν <span class=\"payment_db\">28,95 £</span>) στον τρόπο πληρωμής σας μέχρι να ακυρώσετε. Μπορείτε να ακυρώσετε ανά πάσα στιγμή για να αποφύγετε μελλοντικές χρεώσεις.",
+    "tnc": "Κάνουμε ένα επιπλέον βήμα για να επιβεβαιώσουμε την κάρτα σας, ώστε να μπορέσουμε να επαληθεύσουμε ότι η κάρτα είναι έγκυρη και ότι είστε ο κάτοχος της κάρτας. Η χρέωση είναι <span class=\"price_po \">1.00</span> στην κάρτα. Μόλις επιβεβαιωθεί η κάρτα, η χρέωση θα θα επιστραφούν αμέσως. Ανάλογα με τον εκδότη της κάρτας σας, μπορεί να χρειαστούν έως και 30 ημέρες για να εμφανιστεί η επιστροφή χρημάτων στο αντίγραφο κίνησης της κάρτας σας. Σε 3 ημέρες θα συνεχίσουμε αυτόματα τη συνδρομή σας και θα χρεώνουμε μηνιαία συνδρομή (προς το παρόν <span class=\"price_db\">28,95 £</span>) στον τρόπο πληρωμής σας μέχρι να ακυρώσετε. Μπορείτε να ακυρώσετε ανά πάσα στιγμή για να αποφύγετε μελλοντικές χρεώσεις.",
     "copyright": "πνευματικά δικαιώματα"
   },
   "CZ": {
@@ -116,7 +116,7 @@
     "total": "celkem",
     "cta2": "Zahajte zkušební verzi ZDARMA HNED:",
     "order_id": "ID vaší objednávky je:",
-    "tnc": "Učiníme další krok k potvrzení vaší karty, abychom mohli ověřit, že je karta platná a že jste jejím vlastníkem. Poplatek z karty činí <span class=\"payment_po \">1.00</span>. Jakmile bude karta potvrzena, poplatek bude budou okamžitě vráceny. V závislosti na vydavateli vaší karty může trvat až 30 dní, než se refundace objeví na vašem výpisu z karty. Za 3 dny budeme automaticky pokračovat ve vašem členství a účtovat měsíční členský poplatek (aktuálně <span class=\"payment_db\">28,95 GBP</span>) na váš způsob platby, dokud nezrušíte. Abyste předešli budoucím poplatkům, můžete odběr kdykoli zrušit.",
+    "tnc": "Učiníme další krok k potvrzení vaší karty, abychom mohli ověřit, že je karta platná a že jste jejím vlastníkem. Poplatek z karty činí <span class=\"price_po \">1.00</span>. Jakmile bude karta potvrzena, poplatek bude budou okamžitě vráceny. V závislosti na vydavateli vaší karty může trvat až 30 dní, než se refundace objeví na vašem výpisu z karty. Za 3 dny budeme automaticky pokračovat ve vašem členství a účtovat měsíční členský poplatek (aktuálně <span class=\"price_db\">28,95 GBP</span>) na váš způsob platby, dokud nezrušíte. Abyste předešli budoucím poplatkům, můžete odběr kdykoli zrušit.",
     "copyright": "autorská práva"
   },
   "DK": {
@@ -124,7 +124,7 @@
     "total": "Total",
     "cta2": "Start din GRATIS prøveperiode NU:",
     "order_id": "Dit ordre-id er:",
-    "tnc": "Vi tager et ekstra skridt for at bekræfte dit kort, så vi kan bekræfte, at kortet er gyldigt, og at du er kortejeren. Debiteringen er <span class=\"payment_po \">1.00</span>til kortet. Når kortet er bekræftet, vil opkrævningen refunderes med det samme. Afhængigt af din kortudsteder kan det tage op til 30 dage, før tilbagebetalingen vises på dit kortudtog. Om 3 dage fortsætter vi automatisk dit medlemskab og opkræver månedligt medlemsgebyr (i øjeblikket <span class=\"payment_db \">28,95 £</span>) til din betalingsmetode, indtil du annullerer. Du kan til enhver tid annullere for at undgå fremtidige debiteringer.",
+    "tnc": "Vi tager et ekstra skridt for at bekræfte dit kort, så vi kan bekræfte, at kortet er gyldigt, og at du er kortejeren. Debiteringen er <span class=\"price_po \">1.00</span> til kortet. Når kortet er bekræftet, vil opkrævningen refunderes med det samme. Afhængigt af din kortudsteder kan det tage op til 30 dage, før tilbagebetalingen vises på dit kortudtog. Om 3 dage fortsætter vi automatisk dit medlemskab og opkræver månedligt medlemsgebyr (i øjeblikket <span class=\"price_db \">28,95 £</span>) til din betalingsmetode, indtil du annullerer. Du kan til enhver tid annullere for at undgå fremtidige debiteringer.",
     "copyright": "copyright"
   },
   "ES": {
@@ -132,7 +132,7 @@
     "total": "Total",
     "cta2": "Inicie su prueba GRATUITA AHORA:",
     "order_id": "Su ID de pedido es:",
-    "tnc": "Damos un paso adicional para confirmar su tarjeta de modo que podamos verificar que la tarjeta es válida y que usted es el propietario de la tarjeta. El cargo es de <span class=\"payment_po \">1.00</span> a la tarjeta. Una vez que se confirme la tarjeta, el cargo será se reembolsará de inmediato. Dependiendo del emisor de la tarjeta, el reembolso puede demorar hasta 30 días en aparecer en el extracto de su tarjeta. En 3 días continuaremos automáticamente con su membresía y cobraremos una tarifa de membresía mensual (actualmente <span class = \"payment_db\"> £ 28.95 </span>) a su método de pago hasta que cancele. Puede cancelar en cualquier momento para evitar cargos futuros.",
+    "tnc": "Damos un paso adicional para confirmar su tarjeta de modo que podamos verificar que la tarjeta es válida y que usted es el propietario de la tarjeta. El cargo es de <span class=\"price_po \">1.00</span> a la tarjeta. Una vez que se confirme la tarjeta, el cargo será se reembolsará de inmediato. Dependiendo del emisor de la tarjeta, el reembolso puede demorar hasta 30 días en aparecer en el extracto de su tarjeta. En 3 días continuaremos automáticamente con su membresía y cobraremos una tarifa de membresía mensual (actualmente <span class = \"price_db\"> £ 28.95 </span>) a su método de pago hasta que cancele. Puede cancelar en cualquier momento para evitar cargos futuros.",
     "copyright": "copyright"
   },
   "FI": {
@@ -140,7 +140,7 @@
     "total": "Yhteensä" ,
     "cta2": "Aloita ILMAINEN kokeilusi NYT:",
     "order_id": "Tilauksen tunnuksesi on:",
-    "tnc": "Teemme ylimääräisen vaiheen vahvistaaksemme korttisi, jotta voimme varmistaa, että kortti on voimassa ja että olet kortin omistaja. Veloitus on <span class=\"payment_po \">1.00</span> puntaa kortilta. Kun kortti on vahvistettu, veloitus hyvitetään välittömästi. Kortin myöntäjästä riippuen voi kestää jopa 30 päivää, ennen kuin hyvitys näkyy korttisi tiliotteessa. Kolmen päivän kuluttua jatkamme automaattisesti jäsenyyttäsi ja veloitamme kuukausittaisen jäsenmaksun (tällä hetkellä <span class=\"payment_db \">28,95 £</span>) maksutavallesi, kunnes peruutat tilauksen. Voit peruuttaa milloin tahansa välttääksesi tulevat maksut.",
+    "tnc": "Teemme ylimääräisen vaiheen vahvistaaksemme korttisi, jotta voimme varmistaa, että kortti on voimassa ja että olet kortin omistaja. Veloitus on <span class=\"price_po \">1.00</span> puntaa kortilta. Kun kortti on vahvistettu, veloitus hyvitetään välittömästi. Kortin myöntäjästä riippuen voi kestää jopa 30 päivää, ennen kuin hyvitys näkyy korttisi tiliotteessa. Kolmen päivän kuluttua jatkamme automaattisesti jäsenyyttäsi ja veloitamme kuukausittaisen jäsenmaksun (tällä hetkellä <span class=\"price_db \">28,95 £</span>) maksutavallesi, kunnes peruutat tilauksen. Voit peruuttaa milloin tahansa välttääksesi tulevat maksut.",
     "copyright": "tekijänoikeus"
   },
   "HU": {
@@ -148,7 +148,7 @@
     "total": "Összesen" ,
     "cta2": "Kezdje el INGYENES próbaverzióját MOST:",
     "order_id": "Az Ön rendelési azonosítója:",
-    "tnc": "Egy további lépést teszünk a kártya megerősítésére, hogy ellenőrizhessük a kártya érvényességét, és hogy Ön a kártya tulajdonosa. A kártya terhelése <span class=\"payment_po \">1.00</span>. A kártya megerősítése után a terhelés azonnal visszatérítjük. Kártyakibocsátójától függően akár 30 napig is eltarthat, mire a visszatérítés megjelenik a kártyakivonatán. 3 napon belül automatikusan folytatjuk tagságát, és havi tagsági díjat számítunk fel (jelenleg <span class=\"payment_db \">28,95 GBP</span>) az Ön fizetési módjára, amíg le nem mondja. Bármikor lemondhatja az előfizetést a jövőbeni költségek elkerülése érdekében.",
+    "tnc": "Egy további lépést teszünk a kártya megerősítésére, hogy ellenőrizhessük a kártya érvényességét, és hogy Ön a kártya tulajdonosa. A kártya terhelése <span class=\"price_po \">1.00</span>. A kártya megerősítése után a terhelés azonnal visszatérítjük. Kártyakibocsátójától függően akár 30 napig is eltarthat, mire a visszatérítés megjelenik a kártyakivonatán. 3 napon belül automatikusan folytatjuk tagságát, és havi tagsági díjat számítunk fel (jelenleg <span class=\"price_db \">28,95</span>) az Ön fizetési módjára, amíg le nem mondja. Bármikor lemondhatja az előfizetést a jövőbeni költségek elkerülése érdekében.",
     "copyright": "szerzői jog"
   },
   "ID": {
@@ -156,7 +156,7 @@
     "total": "Jumlah" ,
     "cta2": "Mulai uji coba GRATIS Anda SEKARANG:",
     "order_id": "Id pesanan Anda adalah:",
-    "tnc": "Kami mengambil langkah ekstra untuk mengonfirmasi kartu Anda sehingga kami dapat memverifikasi bahwa kartu tersebut valid dan bahwa Anda adalah pemilik kartu. Biayanya <span class=\"payment_po \">1,00</span> ke kartu. Setelah kartu dikonfirmasi, tagihan akan segera dikembalikan. Tergantung pada penerbit kartu Anda, diperlukan waktu hingga 30 hari agar pengembalian dana muncul di laporan mutasi kartu Anda. Dalam 3 hari kami akan secara otomatis melanjutkan keanggotaan Anda dan menagih bulanan biaya keanggotaan (saat ini <span class=\"payment_db\">£28,95</span>) ke metode pembayaran Anda hingga Anda membatalkannya. Anda dapat membatalkannya kapan saja untuk menghindari biaya di masa mendatang.",
+    "tnc": "Kami mengambil langkah ekstra untuk mengonfirmasi kartu Anda sehingga kami dapat memverifikasi bahwa kartu tersebut valid dan bahwa Anda adalah pemilik kartu. Biayanya <span class=\"price_po \">1,00</span> ke kartu. Setelah kartu dikonfirmasi, tagihan akan segera dikembalikan. Tergantung pada penerbit kartu Anda, diperlukan waktu hingga 30 hari agar pengembalian dana muncul di laporan mutasi kartu Anda. Dalam 3 hari kami akan secara otomatis melanjutkan keanggotaan Anda dan menagih bulanan biaya keanggotaan (saat ini <span class=\"price_db\">£28,95</span>) ke metode pembayaran Anda hingga Anda membatalkannya. Anda dapat membatalkannya kapan saja untuk menghindari biaya di masa mendatang.",
     "copyright": "hak cipta"
   },
   "IT": {
@@ -164,7 +164,7 @@
     "total": "Totale " ,
     "cta2": "Inizia ORA la tua prova GRATUITA:",
     "order_id": "Il tuo ID ordine è:",
-    "tnc": "Mes atliekame papildomą veiksmą, kad patvirtintume jūsų kortelę, kad galėtume patikrinti, ar kortelė galioja ir ar esate kortelės savininkas. Kortelė yra 1,00 GBP. Kai kortelė bus patvirtinta, apmokestinimas bus nedelsiant grąžintos. Priklausomai nuo kortelės išdavėjo, gali praeiti iki 30 dienų, kol grąžinimas bus rodomas kortelės ataskaitoje. Po 3 dienų automatiškai tęsime jūsų narystę ir imsime mėnesinį narystės mokestį (šiuo metu <span class=\"payment_db\">28,95 </span>) naudodami mokėjimo metodą, kol neatšauksite. Galite bet kada atšaukti, kad išvengtumėte būsimų mokesčių.",
+    "tnc": "Mes atliekame papildomą veiksmą, kad patvirtintume jūsų kortelę, kad galėtume patikrinti, ar kortelė galioja ir ar esate kortelės savininkas. Kortelė yra <span class=\"price_po\">1</span>. Kai kortelė bus patvirtinta, apmokestinimas bus nedelsiant grąžintos. Priklausomai nuo kortelės išdavėjo, gali praeiti iki 30 dienų, kol grąžinimas bus rodomas kortelės ataskaitoje. Po 3 dienų automatiškai tęsime jūsų narystę ir imsime mėnesinį narystės mokestį (šiuo metu <span class=\"price_db\">28,95 </span>) naudodami mokėjimo metodą, kol neatšauksite. Galite bet kada atšaukti, kad išvengtumėte būsimų mokesčių.",
     "copyright": "diritto d'autore"
   },
   "LT": {
@@ -172,7 +172,7 @@
     "total": "Kopā " ,
     "cta2": "Sāciet savu BEZMAKSAS izmēģinājumu TAGAD:",
     "order_id": "Jūsu pasūtījuma ID ir:",
-    "tnc": "Mēs veicam papildu darbību, lai apstiprinātu jūsu karti, lai mēs varētu pārbaudīt, vai karte ir derīga un ka esat kartes īpašnieks. Maksa ir <span class=\"payment_po \">1,00</span> uz karti. Kad karte tiks apstiprināta, maksa tiks nekavējoties atmaksāta. Atkarībā no kartes izdevēja var paiet līdz 30 dienām, līdz atmaksa tiks parādīta jūsu kartes izrakstā. Pēc 3 dienām mēs automātiski turpināsim jūsu dalību un iekasējiet ikmēneša dalības maksu (pašlaik <span class=\"payment_db\">£28,95</span>) no jūsu maksājuma veida, līdz anulēsiet abonementu. Varat jebkurā laikā anulēt abonementu, lai izvairītos no turpmākām maksām.",
+    "tnc": "Mēs veicam papildu darbību, lai apstiprinātu jūsu karti, lai mēs varētu pārbaudīt, vai karte ir derīga un ka esat kartes īpašnieks. Maksa ir <span class=\"price_po \">1,00</span> uz karti. Kad karte tiks apstiprināta, maksa tiks nekavējoties atmaksāta. Atkarībā no kartes izdevēja var paiet līdz 30 dienām, līdz atmaksa tiks parādīta jūsu kartes izrakstā. Pēc 3 dienām mēs automātiski turpināsim jūsu dalību un iekasējiet ikmēneša dalības maksu (pašlaik <span class=\"price_db\">£28,95</span>) no jūsu maksājuma veida, līdz anulēsiet abonementu. Varat jebkurā laikā anulēt abonementu, lai izvairītos no turpmākām maksām.",
     "copyright": "autortiesības"
   },
   "LU": {
@@ -180,7 +180,7 @@
     "total": "Total ",
     "cta2": "Démarrez votre essai GRATUIT MAINTENANT:",
     "order_id": "Votre identifiant de commande est:",
-    "tnc": "Nous prenons une étape supplémentaire pour confirmer votre carte afin que nous puissions vérifier que la carte est valide et que vous êtes le propriétaire de la carte. Le débit est de 1,00 £ sur la carte. Une fois la carte confirmée, le débit sera immédiatement remboursé. Selon l'émetteur de votre carte, le remboursement peut prendre jusqu'à 30 jours pour apparaître sur votre relevé de carte. Dans 3 jours, nous continuerons automatiquement votre abonnement et facturerons les frais d'abonnement mensuels (actuellement <span class=\"payment_db \">28,95£</span>) sur votre mode de paiement jusqu'à ce que vous annuliez. Vous pouvez annuler à tout moment pour éviter des frais futurs.",
+    "tnc": "Nous prenons une étape supplémentaire pour confirmer votre carte afin que nous puissions vérifier que la carte est valide et que vous êtes le propriétaire de la carte. Le débit est de <span class=\"price_po\">1</span> sur la carte. Une fois la carte confirmée, le débit sera immédiatement remboursé. Selon l'émetteur de votre carte, le remboursement peut prendre jusqu'à 30 jours pour apparaître sur votre relevé de carte. Dans 3 jours, nous continuerons automatiquement votre abonnement et facturerons les frais d'abonnement mensuels (actuellement <span class=\"price_db \">28,95£</span>) sur votre mode de paiement jusqu'à ce que vous annuliez. Vous pouvez annuler à tout moment pour éviter des frais futurs.",
     "copyright": "droit d'auteur"
   },
   "LV": {
@@ -188,7 +188,7 @@
     "total": "Total ",
     "cta2": "Démarrez votre essai GRATUIT MAINTENANT:",
     "order_id": "Votre identifiant de commande est:",
-    "tnc": "Nous prenons une étape supplémentaire pour confirmer votre carte afin que nous puissions vérifier que la carte est valide et que vous êtes le propriétaire de la carte. Le débit est de 1,00 £ sur la carte. Une fois la carte confirmée, le débit sera immédiatement remboursé. Selon l'émetteur de votre carte, le remboursement peut prendre jusqu'à 30 jours pour apparaître sur votre relevé de carte. Dans 3 jours, nous continuerons automatiquement votre abonnement et facturerons les frais d'abonnement mensuels (actuellement <span class=\"payment_db \">28,95£</span>) sur votre mode de paiement jusqu'à ce que vous annuliez. Vous pouvez annuler à tout moment pour éviter des frais futurs.",
+    "tnc": "Nous prenons une étape supplémentaire pour confirmer votre carte afin que nous puissions vérifier que la carte est valide et que vous êtes le propriétaire de la carte. Le débit est de <span class=\"price_po\">1</span> sur la carte. Une fois la carte confirmée, le débit sera immédiatement remboursé. Selon l'émetteur de votre carte, le remboursement peut prendre jusqu'à 30 jours pour apparaître sur votre relevé de carte. Dans 3 jours, nous continuerons automatiquement votre abonnement et facturerons les frais d'abonnement mensuels (actuellement <span class=\"price_db \">28,95£</span>) sur votre mode de paiement jusqu'à ce que vous annuliez. Vous pouvez annuler à tout moment pour éviter des frais futurs.",
     "copyright": "droit d'auteur"
   },
   "ME": {
@@ -196,7 +196,7 @@
     "total": "Укупно",
     "cta2": "Започни своју БЕСПЛАТНУ пробну верзију САДА:",
     "order_id": "ИД ваше поруџбине је:",
-    "tnc": "Предузели смо додатни корак да потврдимо вашу картицу како бисмо могли да потврдимо да је картица важећа и да сте ви власник картице. Наплата је 1,00 фунти на картици. Када се картица потврди, наплата ће бити бити одмах враћен. У зависности од издаваоца ваше картице, може проћи до 30 дана док се повраћај средстава не појави на изводу картице. За 3 дана аутоматски ћемо наставити ваше чланство и наплатити месечну чланарину (тренутно <span class=\"payment_db \">£28,95</span>) на начин плаћања док не откажете. Можете да откажете у било ком тренутку да бисте избегли будуће трошкове.",
+    "tnc": "Предузели смо додатни корак да потврдимо вашу картицу како бисмо могли да потврдимо да је картица важећа и да сте ви власник картице. Наплата је <span class=\"price_po\">1</span> фунти на картици. Када се картица потврди, наплата ће бити бити одмах враћен. У зависности од издаваоца ваше картице, може проћи до 30 дана док се повраћај средстава не појави на изводу картице. За 3 дана аутоматски ћемо наставити ваше чланство и наплатити месечну чланарину (тренутно <span class=\"price_db \">£28,95</span>) на начин плаћања док не откажете. Можете да откажете у било ком тренутку да бисте избегли будуће трошкове.",
     "copyright": "цопиригхт"
   },
   "MT": {
@@ -204,7 +204,7 @@
     "total": "Total",
     "cta2": "Ibda l-prova B'XEJN tiegħek ISSA:",
     "order_id": "L-id tal-ordni tiegħek hija:",
-    "tnc": "Nieħdu pass addizzjonali biex nikkonfermaw il-karta tiegħek sabiex inkunu nistgħu nivverifikaw li l-karta hija valida u li inti sid il-karta. Il-ħlas huwa £1.00 għall-karta. Ladarba l-karta tiġi kkonfermata, il-ħlas se tiġi rimborżata immedjatament. Jiddependi minn min joħroġ il-karta tiegħek, jista' jieħu sa 30 jum biex ir-rifużjoni tidher fuq id-dikjarazzjoni tal-karta tiegħek. Fi 3 ijiem aħna awtomatikament inkomplu s-sħubija tiegħek u niċċarġjaw miżata ta' sħubija ta' kull xahar (bħalissa <span class=\"payment_db \">28.95</span>) mal-metodu ta' ħlas tiegħek sakemm tikkanċella. Tista' tikkanċella fi kwalunkwe ħin biex tevita ħlasijiet futuri.",
+    "tnc": "Nieħdu pass addizzjonali biex nikkonfermaw il-karta tiegħek sabiex inkunu nistgħu nivverifikaw li l-karta hija valida u li inti sid il-karta. Il-ħlas huwa <span class=\"price_po\">1</span> għall-karta. Ladarba l-karta tiġi kkonfermata, il-ħlas se tiġi rimborżata immedjatament. Jiddependi minn min joħroġ il-karta tiegħek, jista' jieħu sa 30 jum biex ir-rifużjoni tidher fuq id-dikjarazzjoni tal-karta tiegħek. Fi 3 ijiem aħna awtomatikament inkomplu s-sħubija tiegħek u niċċarġjaw miżata ta' sħubija ta' kull xahar (bħalissa <span class=\"price_db \">28.95</span>) mal-metodu ta' ħlas tiegħek sakemm tikkanċella. Tista' tikkanċella fi kwalunkwe ħin biex tevita ħlasijiet futuri.",
     "copyright": "copyright"
   },
   "MY": {
@@ -212,7 +212,7 @@
     "total": "Total",
     "cta2": "Start your FREE trial NOW:",
     "order_id": "Your order id is:",
-    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is £1.00 to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"payment_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
+    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is <span class=\"price_po\">1</span> to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"price_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
     "copyright": "copyright"
   },
   "NL": {
@@ -220,23 +220,23 @@
     "total": "Totaal:",
     "cta2": "Start NU uw GRATIS proefperiode:",
     "order_id": "Uw bestelling-ID is:",
-    "tnc": "We nemen een extra stap om uw kaart te bevestigen, zodat we kunnen verifiëren dat de kaart geldig is en dat u de eigenaar van de kaart bent. De afschrijving is £ 1,00 op de kaart. Zodra de kaart is bevestigd, wordt de afschrijving onmiddellijk worden terugbetaald. Afhankelijk van uw kaartuitgever kan het tot 30 dagen duren voordat de terugbetaling op uw kaartafschrift wordt weergegeven. Over 3 dagen zetten we uw lidmaatschap automatisch voort en brengen we maandelijkse lidmaatschapskosten in rekening (momenteel <span class=\"payment_db \">£28,95</span>) op uw betaalmethode totdat u annuleert. U kunt op elk moment annuleren om toekomstige kosten te voorkomen.",
+    "tnc": "We nemen een extra stap om uw kaart te bevestigen, zodat we kunnen verifiëren dat de kaart geldig is en dat u de eigenaar van de kaart bent. De afschrijving is <span class=\"price_po\">1</span> op de kaart. Zodra de kaart is bevestigd, wordt de afschrijving onmiddellijk worden terugbetaald. Afhankelijk van uw kaartuitgever kan het tot 30 dagen duren voordat de terugbetaling op uw kaartafschrift wordt weergegeven. Over 3 dagen zetten we uw lidmaatschap automatisch voort en brengen we maandelijkse lidmaatschapskosten in rekening (momenteel <span class=\"price_db \">£28,95</span>) op uw betaalmethode totdat u annuleert. U kunt op elk moment annuleren om toekomstige kosten te voorkomen.",
     "copyright": "copyright"
   },
   "NO": {
-    "cta1": "Vul het formulier in om het proces te voltooien",
-    "total": "Totaal:",
-    "cta2": "Start NU uw GRATIS proefperiode:",
-    "order_id": "Uw bestelling-ID is:",
-    "tnc": "We nemen een extra stap om uw kaart te bevestigen, zodat we kunnen verifiëren dat de kaart geldig is en dat u de eigenaar van de kaart bent. De afschrijving is £ 1,00 op de kaart. Zodra de kaart is bevestigd, wordt de afschrijving onmiddellijk worden terugbetaald. Afhankelijk van uw kaartuitgever kan het tot 30 dagen duren voordat de terugbetaling op uw kaartafschrift wordt weergegeven. Over 3 dagen zetten we uw lidmaatschap automatisch voort en brengen we maandelijkse lidmaatschapskosten in rekening (momenteel <span class=\"payment_db \">£28,95</span>) op uw betaalmethode totdat u annuleert. U kunt op elk moment annuleren om toekomstige kosten te voorkomen.",
-    "copyright": "copyright"
+    "cta1": "Fyll ut skjemaet for å fullføre prosessen",
+    "total": "Totalt:",
+    "cta2": "Start din GRATIS prøveversjon NÅ:",
+    "order_id": "Din bestillings-ID er:",
+    "tnc": "Vi tar et ekstra skritt for å bekrefte kortet ditt slik at vi kan bekrefte at kortet er gyldig og at du er korteier. Beløpet er <span class=\"price_po\">1:00</span> til kortet. Når kortet er bekreftet, vil belastningen umiddelbart bli refundert. Avhengig av kortutstederen din kan det ta opptil 30 dager før refusjonen vises på kortutskriften din. Om 3 dager fortsetter vi automatisk medlemskapet ditt og belast månedlig medlemsavgift (for øyeblikket <span class=\"price_db\">£28,95</span>) til betalingsmåten din til du sier opp. Du kan si opp når som helst for å unngå fremtidige kostnader.",
+    "copyright": "opphavsrett"
   },
   "NZ": {
     "cta1": "Complete the form to finish the process",
     "total": "Total",
     "cta2": "Start your FREE trial NOW:",
     "order_id": "Your order id is:",
-    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is £1.00 to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"payment_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
+    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is <span class=\"price_po\">1:00</span> to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"price_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
     "copyright": "copyright"
   },
   "PH": {
@@ -244,14 +244,14 @@
     "total": "Total",
     "cta2": "Start your FREE trial NOW:",
     "order_id": "Your order id is:",
-    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is £1.00 to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"payment_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
+    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is <span class=\"price_po\">1:00</span> to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"price_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
     "copyright": "copyright"
   },
   "PT": {
     "cta1": "Complete the form to finish the process",
     "total": "Kabuuan",
     "cta2": "Simulan ang iyong LIBRENG pagsubok NGAYON:",
-    "order_id": "Nagsasagawa kami ng karagdagang hakbang upang kumpirmahin ang iyong card upang ma-verify namin na wasto ang card at ikaw ang may-ari ng card. Ang singil ay £1.00 sa card. Kapag nakumpirma na ang card, ang singil ay agad na mai-refund. Depende sa nagbigay ng iyong card, maaaring tumagal nang hanggang 30 araw bago lumabas ang refund sa iyong card statement. Sa loob ng 3 araw, awtomatiko naming ipagpapatuloy ang iyong membership at sisingilin ang buwanang bayad sa membership (kasalukuyang <span class=\"payment_db \">£28.95</span>) sa iyong paraan ng pagbabayad hanggang sa magkansela ka. Maaari kang magkansela anumang oras upang maiwasan ang mga singil sa hinaharap.",
+    "order_id": "Nagsasagawa kami ng karagdagang hakbang upang kumpirmahin ang iyong card upang ma-verify namin na wasto ang card at ikaw ang may-ari ng card. Ang singil ay <span class=\"price_po\">1:00</span> sa card. Kapag nakumpirma na ang card, ang singil ay agad na mai-refund. Depende sa nagbigay ng iyong card, maaaring tumagal nang hanggang 30 araw bago lumabas ang refund sa iyong card statement. Sa loob ng 3 araw, awtomatiko naming ipagpapatuloy ang iyong membership at sisingilin ang buwanang bayad sa membership (kasalukuyang <span class=\"price_db \">£28.95</span>) sa iyong paraan ng pagbabayad hanggang sa magkansela ka. Maaari kang magkansela anumang oras upang maiwasan ang mga singil sa hinaharap.",
     "copyright": "copyright"
   },
   "RS": {
@@ -259,7 +259,7 @@
     "total": "Укупно:",
     "cta2": "Започни своју БЕСПЛАТНУ пробну верзију САДА:",
     "order_id": "ИД ваше поруџбине је:",
-    "tnc": "Предузели смо додатни корак да потврдимо вашу картицу како бисмо могли да потврдимо да је картица важећа и да сте ви власник картице. Наплата је 1,00 фунти на картици. Када се картица потврди, наплата ће бити бити одмах враћен. У зависности од издаваоца ваше картице, може проћи до 30 дана док се повраћај средстава не појави на изводу картице. За 3 дана аутоматски ћемо наставити ваше чланство и наплатити месечну чланарину (тренутно <span class=\"payment_db \">£28,95</span>) на начин плаћања док не откажете. Можете да откажете у било ком тренутку да бисте избегли будуће трошкове.",
+    "tnc": "Предузели смо додатни корак да потврдимо вашу картицу како бисмо могли да потврдимо да је картица важећа и да сте ви власник картице. Наплата је <span class=\"price_po\">1:00</span> фунти на картици. Када се картица потврди, наплата ће бити бити одмах враћен. У зависности од издаваоца ваше картице, може проћи до 30 дана док се повраћај средстава не појави на изводу картице. За 3 дана аутоматски ћемо наставити ваше чланство и наплатити месечну чланарину (тренутно <span class=\"price_db \">£28,95</span>) на начин плаћања док не откажете. Можете да откажете у било ком тренутку да бисте избегли будуће трошкове.",
     "copyright": "цопиригхт"
   },
   "SA": {
@@ -267,7 +267,7 @@
     "total": "المجموع",
     "cta2": "ابدأ إصدارك التجريبي المجاني الآن:",
     "order_id": "معرف الطلب الخاص بك هو:",
-    "tnc": "نحن نتخذ خطوة إضافية لتأكيد بطاقتك حتى نتمكن من التحقق من أن البطاقة صالحة وأنك مالك البطاقة. الرسوم هي 1.00 جنيه إسترليني على البطاقة. بمجرد تأكيد البطاقة ، سيتم خصم الرسوم يتم رد الأموال فورًا. اعتمادًا على جهة إصدار بطاقتك ، قد يستغرق ظهور المبلغ المسترد في كشف بطاقتك ما يصل إلى 30 يومًا. في غضون 3 أيام ، سنواصل عضويتك تلقائيًا ونخصم رسوم العضوية الشهرية (حاليًا  <span class=\"payment_db \">£28,95</span> جنيهًا إسترلينيًا ) إلى طريقة الدفع الخاصة بك حتى تقوم بالإلغاء. يمكنك الإلغاء في أي وقت لتجنب الرسوم المستقبلية.",
+    "tnc": "نحن نتخذ خطوة إضافية لتأكيد بطاقتك حتى نتمكن من التحقق من أن البطاقة صالحة وأنك مالك البطاقة. الرسوم هي <span class=\"price_po\">1:00</span> جنيه إسترليني على البطاقة. بمجرد تأكيد البطاقة ، سيتم خصم الرسوم يتم رد الأموال فورًا. اعتمادًا على جهة إصدار بطاقتك ، قد يستغرق ظهور المبلغ المسترد في كشف بطاقتك ما يصل إلى 30 يومًا. في غضون 3 أيام ، سنواصل عضويتك تلقائيًا ونخصم رسوم العضوية الشهرية (حاليًا  <span class=\"price_db \">£28,95</span> جنيهًا إسترلينيًا ) إلى طريقة الدفع الخاصة بك حتى تقوم بالإلغاء. يمكنك الإلغاء في أي وقت لتجنب الرسوم المستقبلية.",
     "copyright": "حقوق النشر"
   },
   "SE": {
@@ -275,7 +275,7 @@
     "total": " Totalt ",
     "cta2": "Starta din GRATIS provperiod NU:",
     "order_id": "Ditt beställnings-id är:",
-    "tnc": "Vi tar ett extra steg för att bekräfta ditt kort så att vi kan verifiera att kortet är giltigt och att du är kortets ägare. Debiteringen är £1,00 för kortet. När kortet har bekräftats kommer debiteringen återbetalas omedelbart. Beroende på din kortutgivare kan det ta upp till 30 dagar innan återbetalningen visas på ditt kortutdrag. Om 3 dagar fortsätter vi automatiskt ditt medlemskap och tar ut en månatlig medlemsavgift (för närvarande <span class=\"payment_db) \">28,95</span>) till din betalningsmetod tills du avbokar. Du kan avbryta när som helst för att undvika framtida avgifter.",
+    "tnc": "Vi tar ett extra steg för att bekräfta ditt kort så att vi kan verifiera att kortet är giltigt och att du är kortets ägare. Debiteringen är <span class=\"price_po\">1:00</span> för kortet. När kortet har bekräftats kommer debiteringen återbetalas omedelbart. Beroende på din kortutgivare kan det ta upp till 30 dagar innan återbetalningen visas på ditt kortutdrag. Om 3 dagar fortsätter vi automatiskt ditt medlemskap och tar ut en månatlig medlemsavgift (för närvarande <span class=\"price_db) \">28,95</span>) till din betalningsmetod tills du avbokar. Du kan avbryta när som helst för att undvika framtida avgifter.",
     "copyright": "upphovsrätt"
   },
   "SG": {
@@ -283,7 +283,7 @@
     "total": "总",
     "cta2": "现在开始免费试用：",
     "order_id": "您的订单编号是：",
-    "tnc": "我们采取了额外的步骤来确认您的卡，以便我们可以验证该卡是否有效以及您是卡的所有者。卡的费用为 1.00 英镑。一旦卡被确认，费用将 立即退款。根据您的发卡机构，退款最多可能需要 30 天才能显示在您的卡对帐单上。3 天后，我们将自动继续您的会员资格并收取每月会员费（目前 <span class=\"payment_db\">£28.95</span>) 到您的付款方式，直到您取消为止。您可以随时取消以避免将来产生费用。",
+    "tnc": "我们采取了额外的步骤来确认您的卡，以便我们可以验证该卡是否有效以及您是卡的所有者。卡的费用为 1.00 英镑。一旦卡被确认，费用将 立即退款。根据您的发卡机构，退款最多可能需要 30 天才能显示在您的卡对帐单上。3 天后，我们将自动继续您的会员资格并收取每月会员费（目前 <span class=\"price_db\">£28.95</span>) 到您的付款方式，直到您取消为止。您可以随时取消以避免将来产生费用。",
     "copyright": "版权"
   },
   "SI": {
@@ -291,7 +291,7 @@
   "total": "celkom",
   "cta2": "Začnite TERAZ BEZPLATNÚ skúšobnú verziu:",
   "order_id": "ID vašej objednávky je:",
-  "tnc": "Urobíme ďalší krok na potvrdenie vašej karty, aby sme mohli overiť, že karta je platná a že ste jej vlastníkom. Poplatok z karty je 1,00 GBP. Po potvrdení karty sa poplatok budú okamžite vrátené. V závislosti od vydavateľa vašej karty môže trvať až 30 dní, kým sa vrátená platba zobrazí na vašom výpise z karty. O 3 dni budeme automaticky pokračovať vo vašom členstve a účtovať mesačný členský poplatok (aktuálne <span class=\"payment_db \">28,95 £</span>) na váš spôsob platby, kým odber nezrušíte. Ak chcete predísť budúcim poplatkom, môžete odber kedykoľvek zrušiť.",
+  "tnc": "Urobíme ďalší krok na potvrdenie vašej karty, aby sme mohli overiť, že karta je platná a že ste jej vlastníkom. Poplatok z karty je <span class=\"price_po\">1:00</span>. Po potvrdení karty sa poplatok budú okamžite vrátené. V závislosti od vydavateľa vašej karty môže trvať až 30 dní, kým sa vrátená platba zobrazí na vašom výpise z karty. O 3 dni budeme automaticky pokračovať vo vašom členstve a účtovať mesačný členský poplatok (aktuálne <span class=\"price_db \">28,95 £</span>) na váš spôsob platby, kým odber nezrušíte. Ak chcete predísť budúcim poplatkom, môžete odber kedykoľvek zrušiť.",
   "copyright": "autorské právo"
   },
   "SK": {
@@ -299,7 +299,7 @@
     "total": "celkom",
     "cta2": "Začnite TERAZ BEZPLATNÚ skúšobnú verziu:",
     "order_id": "ID vašej objednávky je:",
-    "tnc": "Urobíme ďalší krok na potvrdenie vašej karty, aby sme mohli overiť, že karta je platná a že ste jej vlastníkom. Poplatok z karty je 1,00 GBP. Po potvrdení karty sa poplatok budú okamžite vrátené. V závislosti od vydavateľa vašej karty môže trvať až 30 dní, kým sa vrátená platba zobrazí na vašom výpise z karty. O 3 dni budeme automaticky pokračovať vo vašom členstve a účtovať mesačný členský poplatok (aktuálne <span class=\"payment_db \">28,95 £</span>) na váš spôsob platby, kým odber nezrušíte. Ak chcete predísť budúcim poplatkom, môžete odber kedykoľvek zrušiť.",
+    "tnc": "Urobíme ďalší krok na potvrdenie vašej karty, aby sme mohli overiť, že karta je platná a že ste jej vlastníkom. Poplatok z karty je <span class=\"price_po\">1:00</span>. Po potvrdení karty sa poplatok budú okamžite vrátené. V závislosti od vydavateľa vašej karty môže trvať až 30 dní, kým sa vrátená platba zobrazí na vašom výpise z karty. O 3 dni budeme automaticky pokračovať vo vašom členstve a účtovať mesačný členský poplatok (aktuálne <span class=\"price_db \">28,95 £</span>) na váš spôsob platby, kým odber nezrušíte. Ak chcete predísť budúcim poplatkom, môžete odber kedykoľvek zrušiť.",
     "copyright": "autorské právo"
   },
   "TR": {
@@ -307,7 +307,7 @@
     "total": "Toplam",
     "cta2": "ÜCRETSİZ denemenizi ŞİMDİ başlatın:",
     "order_id": "Sipariş kimliğiniz:",
-    "tnc": "Kartınızın geçerli olduğunu ve kart sahibi olduğunuzu doğrulayabilmemiz için kartınızı onaylamak için fazladan bir adım atıyoruz. Karttan alınan ücret 1,00 £'dir. Kart onaylandıktan sonra, ödeme alınacaktır. hemen iade edilebilir. Kartınızı veren kuruluşa bağlı olarak, geri ödemenin kart ekstrenizde görünmesi 30 gün kadar sürebilir. 3 gün içinde üyeliğinize otomatik olarak devam edeceğiz ve aylık üyelik ücreti alacağız (şu anda <span class=\"payment_db \">28,95</span>) siz iptal edene kadar ödeme yönteminize aktarın. Gelecekteki masraflardan kaçınmak için istediğiniz zaman iptal edebilirsiniz.",
+    "tnc": "Kartınızın geçerli olduğunu ve kart sahibi olduğunuzu doğrulayabilmemiz için kartınızı onaylamak için fazladan bir adım atıyoruz. Karttan alınan ücret <span class=\"price_po\">1:00</span>'dir. Kart onaylandıktan sonra, ödeme alınacaktır. hemen iade edilebilir. Kartınızı veren kuruluşa bağlı olarak, geri ödemenin kart ekstrenizde görünmesi 30 gün kadar sürebilir. 3 gün içinde üyeliğinize otomatik olarak devam edeceğiz ve aylık üyelik ücreti alacağız (şu anda <span class=\"price_db \">28,95</span>) siz iptal edene kadar ödeme yönteminize aktarın. Gelecekteki masraflardan kaçınmak için istediğiniz zaman iptal edebilirsiniz.",
     "copyright": "telif hakkı"
   },
   "AE": {
@@ -315,7 +315,7 @@
     "total": "المجموع",
     "cta2": "ابدأ إصدارك التجريبي المجاني الآن:",
     "order_id": "معرف الطلب الخاص بك هو:",
-    "tnc": "نحن نتخذ خطوة إضافية لتأكيد بطاقتك حتى نتمكن من التحقق من أن البطاقة صالحة وأنك مالك البطاقة. الرسوم هي 1.00 جنيه إسترليني على البطاقة. بمجرد تأكيد البطاقة ، سيتم خصم الرسوم يتم رد الأموال فورًا. اعتمادًا على جهة إصدار بطاقتك ، قد يستغرق ظهور المبلغ المسترد في كشف بطاقتك ما يصل إلى 30 يومًا. في غضون 3 أيام ، سنواصل عضويتك تلقائيًا ونخصم رسوم العضوية الشهرية (حاليًا  <span class=\"payment_db \">£28,95</span> جنيهًا إسترلينيًا ) إلى طريقة الدفع الخاصة بك حتى تقوم بالإلغاء. يمكنك الإلغاء في أي وقت لتجنب الرسوم المستقبلية.",
+    "tnc": "نحن نتخذ خطوة إضافية لتأكيد بطاقتك حتى نتمكن من التحقق من أن البطاقة صالحة وأنك مالك البطاقة. الرسوم هي <span class=\"price_po\">1:00</span> جنيه إسترليني على البطاقة. بمجرد تأكيد البطاقة ، سيتم خصم الرسوم يتم رد الأموال فورًا. اعتمادًا على جهة إصدار بطاقتك ، قد يستغرق ظهور المبلغ المسترد في كشف بطاقتك ما يصل إلى 30 يومًا. في غضون 3 أيام ، سنواصل عضويتك تلقائيًا ونخصم رسوم العضوية الشهرية (حاليًا  <span class=\"price_db \">£28,95</span> جنيهًا إسترلينيًا ) إلى طريقة الدفع الخاصة بك حتى تقوم بالإلغاء. يمكنك الإلغاء في أي وقت لتجنب الرسوم المستقبلية.",
     "copyright": "حقوق النشر"
   },
   "ZA": {
@@ -323,7 +323,7 @@
     "total": "Total",
     "cta2": "Start your FREE trial NOW:",
     "order_id": "Your order id is:",
-    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is £1.00 to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"payment_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
+    "tnc": "We take an extra step to confirm your card so that we can verify that the card is valid and that you are the card owner. The charge is <span class=\"price_po\">1:00</span> to the card. Once the card is confirmed, the charge will be immediately refunded. Depending on your card issuer, it can take up to 30 days for the refund to appear on your card statement. In 3 days we will automatically continue your membership and charge monthly membership fee (currently <span class=\"price_db\">£28.95</span>) to your payment method until you cancel. You may cancel at any time to avoid future charges.",
     "copyright": "copyright"
   }
 }
