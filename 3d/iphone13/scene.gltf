@@ -1652,10 +1652,10 @@
       "uri": "textures/Lens_baseColor.png"
     },
     {
-      "uri": "material_baseColor.jpeg"
+      "uri": "textures/material_baseColor.jpeg"
     },
     {
-      "uri": "Wallpaper_baseColor.jpeg"
+      "uri": "textures/Wallpaper_baseColor.jpeg"
     }
   ],
   "materials": [
