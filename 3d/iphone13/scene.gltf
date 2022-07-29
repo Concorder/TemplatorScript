@@ -1649,13 +1649,13 @@
   ],
   "images": [
     {
-      "uri": "textures/Lens_baseColor.png"
-    },
-    {
       "uri": "textures/material_baseColor.jpeg"
     },
     {
       "uri": "textures/Wallpaper_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Lens_baseColor.png"
     }
   ],
   "materials": [
